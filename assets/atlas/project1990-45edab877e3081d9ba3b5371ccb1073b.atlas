@@ -1,0 +1,10905 @@
+
+project1990.png
+size: 1024, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+artillery_strike_point
+  rotate: false
+  xy: 557, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+artillery_strike_point_TEAM_1_
+  rotate: false
+  xy: 557, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+artillery_strike_point_TEAM_2_
+  rotate: false
+  xy: 693, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 357, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_barrier
+  rotate: false
+  xy: 893, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+block_blue_brick
+  rotate: false
+  xy: 12, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+block_blue_brick_state
+  rotate: false
+  xy: 12, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+block_blue_brick_state
+  rotate: false
+  xy: 107, 157
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 15
+block_brick_state
+  rotate: false
+  xy: 107, 157
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 15
+block_green_brick_state
+  rotate: false
+  xy: 107, 157
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 15
+block_red_brick_state
+  rotate: false
+  xy: 107, 157
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 15
+block_yellow_brick_state
+  rotate: false
+  xy: 107, 157
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 15
+block_blue_brick_state
+  rotate: false
+  xy: 217, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 5
+block_blue_brick_state
+  rotate: false
+  xy: 22, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 12
+block_blue_brick_state
+  rotate: false
+  xy: 42, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 2
+block_blue_brick_state
+  rotate: false
+  xy: 293, 405
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 7
+block_blue_brick_state
+  rotate: false
+  xy: 483, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 14
+block_blue_brick_state
+  rotate: false
+  xy: 503, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 4
+block_blue_brick_state
+  rotate: false
+  xy: 543, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 9
+block_blue_brick_state
+  rotate: false
+  xy: 357, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 11
+block_blue_brick_state
+  rotate: false
+  xy: 367, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+block_blue_brick_state
+  rotate: false
+  xy: 653, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 6
+block_blue_brick_state
+  rotate: false
+  xy: 743, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 13
+block_blue_brick_state
+  rotate: false
+  xy: 773, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 3
+block_blue_brick_state
+  rotate: false
+  xy: 843, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 8
+block_blue_brick_state
+  rotate: false
+  xy: 883, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 10
+block_brick_state
+  rotate: false
+  xy: 225, 413
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 10
+block_brick_state
+  rotate: false
+  xy: 161, 201
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+block_brick
+  rotate: false
+  xy: 161, 201
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+block_brick_state
+  rotate: false
+  xy: 379, 35
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 5
+block_brick_state
+  rotate: false
+  xy: 397, 51
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 12
+block_brick_state
+  rotate: false
+  xy: 283, 405
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 2
+block_brick_state
+  rotate: false
+  xy: 313, 405
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 7
+block_brick_state
+  rotate: false
+  xy: 523, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 14
+block_brick_state
+  rotate: false
+  xy: 533, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 4
+block_brick_state
+  rotate: false
+  xy: 583, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 9
+block_brick_state
+  rotate: false
+  xy: 593, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 11
+block_brick_state
+  rotate: false
+  xy: 623, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+block_brick_state
+  rotate: false
+  xy: 703, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 6
+block_brick_state
+  rotate: false
+  xy: 803, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 13
+block_brick_state
+  rotate: false
+  xy: 823, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 3
+block_brick_state
+  rotate: false
+  xy: 903, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 8
+block_conveyor_down
+  rotate: false
+  xy: 915, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+block_conveyor_down
+  rotate: false
+  xy: 587, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+block_conveyor_down
+  rotate: false
+  xy: 983, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+block_conveyor_down
+  rotate: false
+  xy: 233, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+block_conveyor_down_editor
+  rotate: false
+  xy: 431, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_conveyor_left
+  rotate: false
+  xy: 555, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+block_conveyor_left
+  rotate: false
+  xy: 227, 195
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+block_conveyor_left
+  rotate: false
+  xy: 443, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+block_conveyor_left
+  rotate: false
+  xy: 943, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+block_conveyor_left_editor
+  rotate: false
+  xy: 145, 87
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_conveyor_right
+  rotate: false
+  xy: 53, 155
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+block_conveyor_right
+  rotate: false
+  xy: 311, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+block_conveyor_right
+  rotate: false
+  xy: 515, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+block_conveyor_right
+  rotate: false
+  xy: 943, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+block_conveyor_right_editor
+  rotate: false
+  xy: 863, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_conveyor_up
+  rotate: false
+  xy: 353, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+block_conveyor_up
+  rotate: false
+  xy: 785, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+block_conveyor_up
+  rotate: false
+  xy: 881, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+block_conveyor_up
+  rotate: false
+  xy: 379, 81
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+block_conveyor_up_editor
+  rotate: false
+  xy: 845, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_frost
+  rotate: false
+  xy: 253, 405
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+block_grass
+  rotate: false
+  xy: 713, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+block_green_brick
+  rotate: false
+  xy: 263, 405
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+block_green_brick_state
+  rotate: false
+  xy: 263, 405
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+block_green_brick_state
+  rotate: false
+  xy: 127, 143
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 12
+block_green_brick_state
+  rotate: false
+  xy: 145, 129
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 5
+block_green_brick_state
+  rotate: false
+  xy: 32, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 2
+block_green_brick_state
+  rotate: false
+  xy: 247, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 14
+block_green_brick_state
+  rotate: false
+  xy: 463, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 7
+block_green_brick_state
+  rotate: false
+  xy: 277, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 11
+block_green_brick_state
+  rotate: false
+  xy: 493, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 4
+block_green_brick_state
+  rotate: false
+  xy: 327, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 9
+block_green_brick_state
+  rotate: false
+  xy: 573, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+block_green_brick_state
+  rotate: false
+  xy: 633, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 13
+block_green_brick_state
+  rotate: false
+  xy: 643, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 6
+block_green_brick_state
+  rotate: false
+  xy: 753, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 10
+block_green_brick_state
+  rotate: false
+  xy: 763, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 3
+block_green_brick_state
+  rotate: false
+  xy: 833, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 8
+block_railroad_c
+  rotate: false
+  xy: 143, 157
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_railroad_dl
+  rotate: false
+  xy: 929, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_railroad_h
+  rotate: false
+  xy: 305, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_railroad_hdl
+  rotate: false
+  xy: 629, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_railroad_hlu
+  rotate: false
+  xy: 997, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_railroad_hrd
+  rotate: false
+  xy: 567, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_railroad_hur
+  rotate: false
+  xy: 281, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_railroad_lu
+  rotate: false
+  xy: 691, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_railroad_rd
+  rotate: false
+  xy: 307, 63
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_railroad_ur
+  rotate: false
+  xy: 405, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_railroad_v
+  rotate: false
+  xy: 569, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_railroad_vdl
+  rotate: false
+  xy: 127, 49
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_railroad_vlu
+  rotate: false
+  xy: 395, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_railroad_vrd
+  rotate: false
+  xy: 221, 339
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_railroad_vur
+  rotate: false
+  xy: 331, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_red_brick_state
+  rotate: false
+  xy: 169, 253
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 8
+block_red_brick_state
+  rotate: false
+  xy: 397, 71
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+block_red_brick
+  rotate: false
+  xy: 397, 71
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+block_red_brick_state
+  rotate: false
+  xy: 433, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 11
+block_red_brick_state
+  rotate: false
+  xy: 397, 61
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 5
+block_red_brick_state
+  rotate: false
+  xy: 257, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 2
+block_red_brick_state
+  rotate: false
+  xy: 303, 405
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 13
+block_red_brick_state
+  rotate: false
+  xy: 267, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 7
+block_red_brick_state
+  rotate: false
+  xy: 307, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 10
+block_red_brick_state
+  rotate: false
+  xy: 347, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 4
+block_red_brick_state
+  rotate: false
+  xy: 613, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 9
+block_red_brick_state
+  rotate: false
+  xy: 663, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+block_red_brick_state
+  rotate: false
+  xy: 683, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 12
+block_red_brick_state
+  rotate: false
+  xy: 733, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 6
+block_red_brick_state
+  rotate: false
+  xy: 863, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 3
+block_red_brick_state
+  rotate: false
+  xy: 873, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 14
+block_road_crosswalk_horizontal
+  rotate: false
+  xy: 447, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_road_crosswalk_vertical
+  rotate: false
+  xy: 235, 45
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_road_horizontal
+  rotate: false
+  xy: 387, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_road_no_surface_marking
+  rotate: false
+  xy: 1, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+block_road_vertical
+  rotate: false
+  xy: 227, 213
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+block_sand
+  rotate: false
+  xy: 297, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+block_steel
+  rotate: false
+  xy: 245, 431
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+block_stone
+  rotate: false
+  xy: 287, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+block_void
+  rotate: false
+  xy: 273, 405
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+block_water
+  rotate: false
+  xy: 237, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+block_water
+  rotate: false
+  xy: 793, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+block_yellow_brick
+  rotate: false
+  xy: 443, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+block_yellow_brick_state
+  rotate: false
+  xy: 443, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+block_yellow_brick_state
+  rotate: false
+  xy: 121, 211
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 5
+block_yellow_brick_state
+  rotate: false
+  xy: 415, 89
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 12
+block_yellow_brick_state
+  rotate: false
+  xy: 227, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 2
+block_yellow_brick_state
+  rotate: false
+  xy: 453, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 7
+block_yellow_brick_state
+  rotate: false
+  xy: 473, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 14
+block_yellow_brick_state
+  rotate: false
+  xy: 323, 405
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 4
+block_yellow_brick_state
+  rotate: false
+  xy: 513, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 11
+block_yellow_brick_state
+  rotate: false
+  xy: 317, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 9
+block_yellow_brick_state
+  rotate: false
+  xy: 337, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+block_yellow_brick_state
+  rotate: false
+  xy: 603, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 6
+block_yellow_brick_state
+  rotate: false
+  xy: 673, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 13
+block_yellow_brick_state
+  rotate: false
+  xy: 723, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 3
+block_yellow_brick_state
+  rotate: false
+  xy: 783, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 10
+block_yellow_brick_state
+  rotate: false
+  xy: 813, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 8
+bullet
+  rotate: false
+  xy: 553, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+bullet_TEAM_1_
+  rotate: false
+  xy: 563, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+bullet_TEAM_2_
+  rotate: false
+  xy: 693, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 187, 339
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+deserter
+  rotate: false
+  xy: 313, 487
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+disconnected
+  rotate: false
+  xy: 475, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+explosion_big
+  rotate: false
+  xy: 279, 479
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+explosion_big
+  rotate: false
+  xy: 227, 441
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+explosion_big
+  rotate: false
+  xy: 133, 337
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+explosion_big
+  rotate: false
+  xy: 1, 139
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+explosion_big
+  rotate: false
+  xy: 67, 205
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+explosion_small
+  rotate: false
+  xy: 717, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+explosion_small
+  rotate: false
+  xy: 367, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+explosion_small
+  rotate: false
+  xy: 965, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+framed_staff_dead
+  rotate: false
+  xy: 109, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+gray
+  rotate: false
+  xy: 163, 69
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: false
+  xy: 691, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+helmet
+  rotate: false
+  xy: 665, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+logo
+  rotate: false
+  xy: 1, 475
+  size: 276, 36
+  orig: 276, 36
+  offset: 0, 0
+  index: -1
+logo-ru
+  rotate: false
+  xy: 1, 437
+  size: 224, 36
+  orig: 224, 36
+  offset: 0, 0
+  index: -1
+logo_ANY_
+  rotate: false
+  xy: 763, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+logo_TEAM_1_
+  rotate: false
+  xy: 259, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+logo_TEAM_2_
+  rotate: false
+  xy: 617, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mini_tank
+  rotate: false
+  xy: 853, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+power_up_ALARM
+  rotate: false
+  xy: 851, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+power_up_ARTILLERY
+  rotate: false
+  xy: 655, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+power_up_GRENADE
+  rotate: false
+  xy: 701, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+power_up_HELMET
+  rotate: false
+  xy: 371, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+power_up_REVOLVER
+  rotate: false
+  xy: 289, 81
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+power_up_SHIP
+  rotate: false
+  xy: 55, 25
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+power_up_SHOVEL
+  rotate: false
+  xy: 693, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+power_up_STAR
+  rotate: false
+  xy: 421, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+power_up_TANK
+  rotate: false
+  xy: 263, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_boxcar_blue_h
+  rotate: false
+  xy: 881, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_boxcar_blue_v
+  rotate: false
+  xy: 709, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_boxcar_green_h
+  rotate: false
+  xy: 127, 85
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_boxcar_green_v
+  rotate: false
+  xy: 799, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_boxcar_red_h
+  rotate: false
+  xy: 323, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_boxcar_red_v
+  rotate: false
+  xy: 721, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_open_top_hopper_empty_blue_h
+  rotate: false
+  xy: 151, 319
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_open_top_hopper_empty_blue_v
+  rotate: false
+  xy: 979, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_open_top_hopper_empty_green_h
+  rotate: false
+  xy: 767, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_open_top_hopper_empty_green_v
+  rotate: false
+  xy: 227, 231
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_open_top_hopper_empty_red_h
+  rotate: false
+  xy: 439, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_open_top_hopper_empty_red_v
+  rotate: false
+  xy: 133, 319
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_open_top_hopper_sand_blue_h
+  rotate: false
+  xy: 461, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_open_top_hopper_sand_blue_v
+  rotate: false
+  xy: 375, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_open_top_hopper_sand_green_h
+  rotate: false
+  xy: 659, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_open_top_hopper_sand_green_v
+  rotate: false
+  xy: 297, 425
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_open_top_hopper_sand_red_h
+  rotate: false
+  xy: 833, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_open_top_hopper_sand_red_v
+  rotate: false
+  xy: 783, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_tank_car_blue_h
+  rotate: false
+  xy: 181, 87
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_tank_car_blue_v
+  rotate: false
+  xy: 883, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_tank_car_green_h
+  rotate: false
+  xy: 745, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_tank_car_green_v
+  rotate: false
+  xy: 837, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_tank_car_red_h
+  rotate: false
+  xy: 927, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+railroad_car_tank_car_red_v
+  rotate: false
+  xy: 737, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+score
+  rotate: false
+  xy: 343, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+score_-_glyph
+  rotate: false
+  xy: 407, 72
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+score_0_glyph
+  rotate: false
+  xy: 255, 432
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+score_1_glyph
+  rotate: false
+  xy: 117, 158
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+score_2_glyph
+  rotate: false
+  xy: 155, 130
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+score_3_glyph
+  rotate: false
+  xy: 179, 254
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+score_4_glyph
+  rotate: false
+  xy: 1017, 468
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+score_5_glyph
+  rotate: false
+  xy: 1009, 387
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+score_6_glyph
+  rotate: false
+  xy: 1009, 396
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+score_7_glyph
+  rotate: false
+  xy: 131, 212
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+score_8_glyph
+  rotate: false
+  xy: 137, 144
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+score_9_glyph
+  rotate: false
+  xy: 333, 478
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+ship
+  rotate: false
+  xy: 779, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+spawn
+  rotate: false
+  xy: 389, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+spawn
+  rotate: false
+  xy: 821, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+spawn
+  rotate: false
+  xy: 935, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+spawn
+  rotate: false
+  xy: 343, 27
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+spawn_point_TEAM_1_
+  rotate: false
+  xy: 979, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+spawn_point_TEAM_2_
+  rotate: false
+  xy: 215, 123
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+spawner_TEAM_1_
+  rotate: false
+  xy: 271, 81
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+spawner_TEAM_2_
+  rotate: false
+  xy: 945, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+staff_TEAM_1_
+  rotate: false
+  xy: 341, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+staff_TEAM_2_
+  rotate: false
+  xy: 1007, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+staff_dead
+  rotate: false
+  xy: 583, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+staff_no_team_
+  rotate: false
+  xy: 809, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tank_AI_FAST_DOWN
+  rotate: false
+  xy: 349, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_DOWN
+  rotate: false
+  xy: 235, 63
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_DOWN_BLUE
+  rotate: false
+  xy: 897, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_DOWN_BLUE
+  rotate: false
+  xy: 581, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_DOWN_BROWN
+  rotate: false
+  xy: 455, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_DOWN_BROWN
+  rotate: false
+  xy: 179, 177
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_DOWN_CYAN
+  rotate: false
+  xy: 833, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_DOWN_CYAN
+  rotate: false
+  xy: 199, 33
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_DOWN_ENEMY
+  rotate: false
+  xy: 55, 115
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_DOWN_ENEMY
+  rotate: false
+  xy: 899, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_DOWN_GREEN
+  rotate: false
+  xy: 55, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_DOWN_GREEN
+  rotate: false
+  xy: 179, 123
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_DOWN_NEUTRAL
+  rotate: false
+  xy: 89, 169
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_DOWN_NEUTRAL
+  rotate: false
+  xy: 953, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_DOWN_ORANGE
+  rotate: false
+  xy: 635, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_DOWN_ORANGE
+  rotate: false
+  xy: 575, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_DOWN_PINK
+  rotate: false
+  xy: 637, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_DOWN_PINK
+  rotate: false
+  xy: 413, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_DOWN_RED
+  rotate: false
+  xy: 681, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_DOWN_RED
+  rotate: false
+  xy: 547, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_DOWN_YELLOW
+  rotate: false
+  xy: 945, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_DOWN_YELLOW
+  rotate: false
+  xy: 845, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_LEFT
+  rotate: false
+  xy: 605, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_LEFT
+  rotate: false
+  xy: 791, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_LEFT_BLUE
+  rotate: false
+  xy: 423, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_LEFT_BLUE
+  rotate: false
+  xy: 793, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_LEFT_BROWN
+  rotate: false
+  xy: 567, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_LEFT_BROWN
+  rotate: false
+  xy: 709, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_LEFT_CYAN
+  rotate: false
+  xy: 915, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_LEFT_CYAN
+  rotate: false
+  xy: 961, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_LEFT_ENEMY
+  rotate: false
+  xy: 855, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_LEFT_ENEMY
+  rotate: false
+  xy: 709, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_LEFT_GREEN
+  rotate: false
+  xy: 591, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_LEFT_GREEN
+  rotate: false
+  xy: 821, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_LEFT_NEUTRAL
+  rotate: false
+  xy: 73, 133
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_LEFT_NEUTRAL
+  rotate: false
+  xy: 803, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_LEFT_ORANGE
+  rotate: false
+  xy: 619, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_LEFT_ORANGE
+  rotate: false
+  xy: 827, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_LEFT_PINK
+  rotate: false
+  xy: 501, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_LEFT_PINK
+  rotate: false
+  xy: 515, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_LEFT_RED
+  rotate: false
+  xy: 209, 213
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_LEFT_RED
+  rotate: false
+  xy: 925, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_LEFT_YELLOW
+  rotate: false
+  xy: 351, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_LEFT_YELLOW
+  rotate: false
+  xy: 215, 141
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_RIGHT
+  rotate: false
+  xy: 785, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_RIGHT
+  rotate: false
+  xy: 307, 45
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_RIGHT_BLUE
+  rotate: false
+  xy: 667, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_RIGHT_BLUE
+  rotate: false
+  xy: 485, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_RIGHT_BROWN
+  rotate: false
+  xy: 405, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_RIGHT_BROWN
+  rotate: false
+  xy: 269, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_RIGHT_CYAN
+  rotate: false
+  xy: 385, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_RIGHT_CYAN
+  rotate: false
+  xy: 307, 81
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_RIGHT_ENEMY
+  rotate: false
+  xy: 567, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_RIGHT_ENEMY
+  rotate: false
+  xy: 467, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_RIGHT_GREEN
+  rotate: false
+  xy: 367, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_RIGHT_GREEN
+  rotate: false
+  xy: 997, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_RIGHT_NEUTRAL
+  rotate: false
+  xy: 441, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_RIGHT_NEUTRAL
+  rotate: false
+  xy: 781, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_RIGHT_ORANGE
+  rotate: false
+  xy: 85, 187
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_RIGHT_ORANGE
+  rotate: false
+  xy: 497, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_RIGHT_PINK
+  rotate: false
+  xy: 457, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_RIGHT_PINK
+  rotate: false
+  xy: 323, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_RIGHT_RED
+  rotate: false
+  xy: 585, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_RIGHT_RED
+  rotate: false
+  xy: 611, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_RIGHT_YELLOW
+  rotate: false
+  xy: 595, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_RIGHT_YELLOW
+  rotate: false
+  xy: 575, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_UP
+  rotate: false
+  xy: 767, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_UP
+  rotate: false
+  xy: 325, 99
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_UP_BLUE
+  rotate: false
+  xy: 441, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_UP_BLUE
+  rotate: false
+  xy: 485, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_UP_BROWN
+  rotate: false
+  xy: 495, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_UP_BROWN
+  rotate: false
+  xy: 413, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_UP_CYAN
+  rotate: false
+  xy: 259, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_UP_CYAN
+  rotate: false
+  xy: 839, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_UP_ENEMY
+  rotate: false
+  xy: 801, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_UP_ENEMY
+  rotate: false
+  xy: 557, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_UP_GREEN
+  rotate: false
+  xy: 331, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_UP_GREEN
+  rotate: false
+  xy: 983, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_UP_NEUTRAL
+  rotate: false
+  xy: 475, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_UP_NEUTRAL
+  rotate: false
+  xy: 397, 81
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_UP_ORANGE
+  rotate: false
+  xy: 855, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_UP_ORANGE
+  rotate: false
+  xy: 887, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_UP_PINK
+  rotate: false
+  xy: 459, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_UP_PINK
+  rotate: false
+  xy: 799, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_UP_RED
+  rotate: false
+  xy: 407, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_UP_RED
+  rotate: false
+  xy: 593, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_FAST_UP_YELLOW
+  rotate: false
+  xy: 731, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_FAST_UP_YELLOW
+  rotate: false
+  xy: 199, 51
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_DOWN_BLUE
+  rotate: false
+  xy: 817, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_DOWN_BLUE
+  rotate: false
+  xy: 817, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_DOWN_BROWN
+  rotate: false
+  xy: 951, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_DOWN_BROWN
+  rotate: false
+  xy: 951, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_DOWN_BROWN
+  rotate: false
+  xy: 619, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_DOWN_BROWN
+  rotate: false
+  xy: 619, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_DOWN_CYAN
+  rotate: false
+  xy: 789, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_DOWN_CYAN
+  rotate: false
+  xy: 789, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_DOWN_CYAN
+  rotate: false
+  xy: 655, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_DOWN_CYAN
+  rotate: false
+  xy: 655, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_DOWN_ENEMY
+  rotate: false
+  xy: 495, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_DOWN_ENEMY
+  rotate: false
+  xy: 495, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_DOWN_GREEN
+  rotate: false
+  xy: 905, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_DOWN_GREEN
+  rotate: false
+  xy: 905, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_DOWN_NEUTRAL
+  rotate: false
+  xy: 601, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_DOWN_NEUTRAL
+  rotate: false
+  xy: 601, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_DOWN_ORANGE
+  rotate: false
+  xy: 317, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_DOWN_ORANGE
+  rotate: false
+  xy: 317, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_DOWN_ORANGE
+  rotate: false
+  xy: 359, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_DOWN_ORANGE
+  rotate: false
+  xy: 359, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_DOWN_PINK
+  rotate: false
+  xy: 605, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_DOWN_PINK
+  rotate: false
+  xy: 605, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_DOWN_RED
+  rotate: false
+  xy: 649, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_DOWN_RED
+  rotate: false
+  xy: 649, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_DOWN_YELLOW
+  rotate: false
+  xy: 621, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_DOWN_YELLOW
+  rotate: false
+  xy: 621, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_LEFT_BLUE
+  rotate: false
+  xy: 405, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_LEFT_BLUE
+  rotate: false
+  xy: 405, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_LEFT_CYAN
+  rotate: false
+  xy: 119, 221
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_LEFT_CYAN
+  rotate: false
+  xy: 119, 221
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_LEFT_ENEMY
+  rotate: false
+  xy: 259, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_LEFT_ENEMY
+  rotate: false
+  xy: 259, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_LEFT_NEUTRAL
+  rotate: false
+  xy: 187, 285
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_LEFT_NEUTRAL
+  rotate: false
+  xy: 187, 285
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_LEFT_ORANGE
+  rotate: false
+  xy: 389, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_LEFT_ORANGE
+  rotate: false
+  xy: 389, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_LEFT_ORANGE
+  rotate: false
+  xy: 665, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_LEFT_ORANGE
+  rotate: false
+  xy: 665, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_LEFT_PINK
+  rotate: false
+  xy: 333, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_LEFT_PINK
+  rotate: false
+  xy: 333, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_LEFT_RED
+  rotate: false
+  xy: 1005, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_LEFT_RED
+  rotate: false
+  xy: 1005, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_LEFT_YELLOW
+  rotate: false
+  xy: 909, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_LEFT_YELLOW
+  rotate: false
+  xy: 909, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_RIGHT
+  rotate: false
+  xy: 333, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_RIGHT
+  rotate: false
+  xy: 333, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_RIGHT
+  rotate: false
+  xy: 673, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_RIGHT
+  rotate: false
+  xy: 673, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_RIGHT_BLUE
+  rotate: false
+  xy: 555, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_RIGHT_BLUE
+  rotate: false
+  xy: 555, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_RIGHT_BROWN
+  rotate: false
+  xy: 963, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_RIGHT_BROWN
+  rotate: false
+  xy: 963, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_RIGHT_BROWN
+  rotate: false
+  xy: 785, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_RIGHT_BROWN
+  rotate: false
+  xy: 785, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_RIGHT_ENEMY
+  rotate: false
+  xy: 169, 281
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_RIGHT_ENEMY
+  rotate: false
+  xy: 169, 281
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_RIGHT_GREEN
+  rotate: false
+  xy: 783, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_RIGHT_GREEN
+  rotate: false
+  xy: 783, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_RIGHT_GREEN
+  rotate: false
+  xy: 251, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_RIGHT_GREEN
+  rotate: false
+  xy: 251, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_RIGHT_NEUTRAL
+  rotate: false
+  xy: 55, 61
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_RIGHT_NEUTRAL
+  rotate: false
+  xy: 55, 61
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_RIGHT_NEUTRAL
+  rotate: false
+  xy: 1007, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_RIGHT_NEUTRAL
+  rotate: false
+  xy: 1007, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_RIGHT_ORANGE
+  rotate: false
+  xy: 537, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_RIGHT_ORANGE
+  rotate: false
+  xy: 537, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_RIGHT_PINK
+  rotate: false
+  xy: 573, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_RIGHT_PINK
+  rotate: false
+  xy: 573, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_RIGHT_RED
+  rotate: false
+  xy: 513, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_RIGHT_RED
+  rotate: false
+  xy: 513, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_RIGHT_YELLOW
+  rotate: false
+  xy: 969, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_RIGHT_YELLOW
+  rotate: false
+  xy: 969, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_RIGHT_YELLOW
+  rotate: false
+  xy: 599, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_RIGHT_YELLOW
+  rotate: false
+  xy: 599, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_UP
+  rotate: false
+  xy: 533, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_UP
+  rotate: false
+  xy: 533, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_UP_CYAN
+  rotate: false
+  xy: 347, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_UP_CYAN
+  rotate: false
+  xy: 347, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_UP_ENEMY
+  rotate: false
+  xy: 169, 299
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_UP_ENEMY
+  rotate: false
+  xy: 169, 299
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_UP_NEUTRAL
+  rotate: false
+  xy: 675, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_UP_NEUTRAL
+  rotate: false
+  xy: 675, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_UP_ORANGE
+  rotate: false
+  xy: 73, 61
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_UP_ORANGE
+  rotate: false
+  xy: 73, 61
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_UP_ORANGE
+  rotate: false
+  xy: 803, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_UP_ORANGE
+  rotate: false
+  xy: 803, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_UP_PINK
+  rotate: false
+  xy: 455, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_UP_PINK
+  rotate: false
+  xy: 455, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_UP_RED
+  rotate: false
+  xy: 421, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_UP_RED
+  rotate: false
+  xy: 421, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_DOWN
+  rotate: false
+  xy: 295, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_DOWN
+  rotate: false
+  xy: 295, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_DOWN_BLUE
+  rotate: false
+  xy: 695, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_DOWN_BLUE
+  rotate: false
+  xy: 695, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_DOWN_CYAN
+  rotate: false
+  xy: 699, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_DOWN_CYAN
+  rotate: false
+  xy: 699, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_DOWN_CYAN
+  rotate: false
+  xy: 637, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_DOWN_CYAN
+  rotate: false
+  xy: 637, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_DOWN_ENEMY
+  rotate: false
+  xy: 637, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_DOWN_ENEMY
+  rotate: false
+  xy: 637, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_DOWN_NEUTRAL
+  rotate: false
+  xy: 801, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_DOWN_NEUTRAL
+  rotate: false
+  xy: 801, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_DOWN_PINK
+  rotate: false
+  xy: 101, 221
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_DOWN_PINK
+  rotate: false
+  xy: 101, 221
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_DOWN_RED
+  rotate: false
+  xy: 585, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_DOWN_RED
+  rotate: false
+  xy: 585, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_DOWN_RED
+  rotate: false
+  xy: 691, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_DOWN_RED
+  rotate: false
+  xy: 691, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_DOWN_YELLOW
+  rotate: false
+  xy: 663, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_DOWN_YELLOW
+  rotate: false
+  xy: 663, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_DOWN_YELLOW
+  rotate: false
+  xy: 653, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_DOWN_YELLOW
+  rotate: false
+  xy: 653, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_LEFT_BLUE
+  rotate: false
+  xy: 717, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_LEFT_BLUE
+  rotate: false
+  xy: 717, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_LEFT_BROWN
+  rotate: false
+  xy: 711, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_LEFT_BROWN
+  rotate: false
+  xy: 711, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_LEFT_ENEMY
+  rotate: false
+  xy: 999, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_LEFT_ENEMY
+  rotate: false
+  xy: 999, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_LEFT_ENEMY
+  rotate: false
+  xy: 989, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_LEFT_ENEMY
+  rotate: false
+  xy: 989, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_LEFT_PINK
+  rotate: false
+  xy: 835, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_LEFT_PINK
+  rotate: false
+  xy: 835, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_LEFT_RED
+  rotate: false
+  xy: 981, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_LEFT_RED
+  rotate: false
+  xy: 981, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_LEFT_RED
+  rotate: false
+  xy: 629, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_LEFT_RED
+  rotate: false
+  xy: 629, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_LEFT_YELLOW
+  rotate: false
+  xy: 933, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_LEFT_YELLOW
+  rotate: false
+  xy: 933, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_LEFT_YELLOW
+  rotate: false
+  xy: 637, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_LEFT_YELLOW
+  rotate: false
+  xy: 637, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_RIGHT
+  rotate: false
+  xy: 155, 229
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_RIGHT
+  rotate: false
+  xy: 155, 229
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_RIGHT_BLUE
+  rotate: false
+  xy: 203, 357
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_RIGHT_BLUE
+  rotate: false
+  xy: 203, 357
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_RIGHT_BLUE
+  rotate: false
+  xy: 533, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_RIGHT_BLUE
+  rotate: false
+  xy: 533, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_RIGHT_BROWN
+  rotate: false
+  xy: 1005, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_RIGHT_BROWN
+  rotate: false
+  xy: 1005, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_RIGHT_BROWN
+  rotate: false
+  xy: 689, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_RIGHT_BROWN
+  rotate: false
+  xy: 689, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_RIGHT_CYAN
+  rotate: false
+  xy: 731, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_RIGHT_CYAN
+  rotate: false
+  xy: 731, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_RIGHT_ENEMY
+  rotate: false
+  xy: 549, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_RIGHT_ENEMY
+  rotate: false
+  xy: 549, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_RIGHT_ENEMY
+  rotate: false
+  xy: 707, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_RIGHT_ENEMY
+  rotate: false
+  xy: 707, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_RIGHT_GREEN
+  rotate: false
+  xy: 923, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_RIGHT_GREEN
+  rotate: false
+  xy: 923, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_RIGHT_NEUTRAL
+  rotate: false
+  xy: 707, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_RIGHT_NEUTRAL
+  rotate: false
+  xy: 707, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_RIGHT_ORANGE
+  rotate: false
+  xy: 313, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_RIGHT_ORANGE
+  rotate: false
+  xy: 313, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_RIGHT_PINK
+  rotate: false
+  xy: 1, 103
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_RIGHT_PINK
+  rotate: false
+  xy: 1, 103
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_RIGHT_YELLOW
+  rotate: false
+  xy: 423, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_RIGHT_YELLOW
+  rotate: false
+  xy: 423, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_UP
+  rotate: false
+  xy: 861, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_UP
+  rotate: false
+  xy: 861, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_UP_BLUE
+  rotate: false
+  xy: 199, 393
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_UP_BLUE
+  rotate: false
+  xy: 199, 393
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_UP_BROWN
+  rotate: false
+  xy: 493, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_UP_BROWN
+  rotate: false
+  xy: 493, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_UP_BROWN
+  rotate: false
+  xy: 503, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_UP_BROWN
+  rotate: false
+  xy: 503, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_UP_ENEMY
+  rotate: false
+  xy: 281, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_UP_ENEMY
+  rotate: false
+  xy: 281, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_UP_GREEN
+  rotate: false
+  xy: 299, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_UP_GREEN
+  rotate: false
+  xy: 299, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_UP_NEUTRAL
+  rotate: false
+  xy: 1, 121
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_UP_NEUTRAL
+  rotate: false
+  xy: 1, 121
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_UP_NEUTRAL
+  rotate: false
+  xy: 839, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_UP_NEUTRAL
+  rotate: false
+  xy: 839, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_UP_ORANGE
+  rotate: false
+  xy: 837, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_UP_ORANGE
+  rotate: false
+  xy: 837, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_UP_PINK
+  rotate: false
+  xy: 497, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_UP_PINK
+  rotate: false
+  xy: 497, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_UP_RED
+  rotate: false
+  xy: 713, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_UP_RED
+  rotate: false
+  xy: 713, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_UP_YELLOW
+  rotate: false
+  xy: 591, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_UP_YELLOW
+  rotate: false
+  xy: 591, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_DOWN
+  rotate: false
+  xy: 677, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_DOWN
+  rotate: false
+  xy: 677, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_DOWN_BLUE
+  rotate: false
+  xy: 313, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_DOWN_BLUE
+  rotate: false
+  xy: 313, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_DOWN_BROWN
+  rotate: false
+  xy: 531, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_DOWN_BROWN
+  rotate: false
+  xy: 531, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_DOWN_BROWN
+  rotate: false
+  xy: 749, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_DOWN_BROWN
+  rotate: false
+  xy: 749, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_DOWN_ENEMY
+  rotate: false
+  xy: 753, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_DOWN_ENEMY
+  rotate: false
+  xy: 753, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_DOWN_GREEN
+  rotate: false
+  xy: 969, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_DOWN_GREEN
+  rotate: false
+  xy: 969, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_DOWN_GREEN
+  rotate: false
+  xy: 983, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_DOWN_GREEN
+  rotate: false
+  xy: 983, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_DOWN_NEUTRAL
+  rotate: false
+  xy: 151, 283
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_DOWN_NEUTRAL
+  rotate: false
+  xy: 151, 283
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_DOWN_ORANGE
+  rotate: false
+  xy: 519, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_DOWN_ORANGE
+  rotate: false
+  xy: 519, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_DOWN_ORANGE
+  rotate: false
+  xy: 533, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_DOWN_ORANGE
+  rotate: false
+  xy: 533, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_DOWN_PINK
+  rotate: false
+  xy: 205, 285
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_DOWN_PINK
+  rotate: false
+  xy: 205, 285
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_LEFT
+  rotate: false
+  xy: 429, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_LEFT
+  rotate: false
+  xy: 429, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_LEFT
+  rotate: false
+  xy: 619, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_LEFT
+  rotate: false
+  xy: 619, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_LEFT_BLUE
+  rotate: false
+  xy: 761, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_LEFT_BLUE
+  rotate: false
+  xy: 761, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_LEFT_BROWN
+  rotate: false
+  xy: 637, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_LEFT_BROWN
+  rotate: false
+  xy: 637, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_LEFT_CYAN
+  rotate: false
+  xy: 879, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_LEFT_CYAN
+  rotate: false
+  xy: 879, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_LEFT_CYAN
+  rotate: false
+  xy: 547, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_LEFT_CYAN
+  rotate: false
+  xy: 547, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_LEFT_GREEN
+  rotate: false
+  xy: 67, 187
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_LEFT_GREEN
+  rotate: false
+  xy: 67, 187
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_LEFT_GREEN
+  rotate: false
+  xy: 493, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_LEFT_GREEN
+  rotate: false
+  xy: 493, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_LEFT_NEUTRAL
+  rotate: false
+  xy: 825, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_LEFT_NEUTRAL
+  rotate: false
+  xy: 825, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_LEFT_NEUTRAL
+  rotate: false
+  xy: 551, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_LEFT_NEUTRAL
+  rotate: false
+  xy: 551, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_LEFT_ORANGE
+  rotate: false
+  xy: 771, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_LEFT_ORANGE
+  rotate: false
+  xy: 771, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_LEFT_ORANGE
+  rotate: false
+  xy: 601, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_LEFT_ORANGE
+  rotate: false
+  xy: 601, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_LEFT_PINK
+  rotate: false
+  xy: 437, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_LEFT_PINK
+  rotate: false
+  xy: 437, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_RIGHT
+  rotate: false
+  xy: 19, 103
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_RIGHT
+  rotate: false
+  xy: 19, 103
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_RIGHT_CYAN
+  rotate: false
+  xy: 729, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_RIGHT_CYAN
+  rotate: false
+  xy: 729, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_RIGHT_GREEN
+  rotate: false
+  xy: 317, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_RIGHT_GREEN
+  rotate: false
+  xy: 317, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_RIGHT_NEUTRAL
+  rotate: false
+  xy: 73, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_RIGHT_NEUTRAL
+  rotate: false
+  xy: 73, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_RIGHT_ORANGE
+  rotate: false
+  xy: 529, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_RIGHT_ORANGE
+  rotate: false
+  xy: 529, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_RIGHT_PINK
+  rotate: false
+  xy: 495, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_RIGHT_PINK
+  rotate: false
+  xy: 495, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_RIGHT_RED
+  rotate: false
+  xy: 549, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_RIGHT_RED
+  rotate: false
+  xy: 549, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_RIGHT_RED
+  rotate: false
+  xy: 727, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_RIGHT_RED
+  rotate: false
+  xy: 727, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_RIGHT_YELLOW
+  rotate: false
+  xy: 241, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_RIGHT_YELLOW
+  rotate: false
+  xy: 241, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_UP
+  rotate: false
+  xy: 963, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_UP
+  rotate: false
+  xy: 963, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_UP_BLUE
+  rotate: false
+  xy: 239, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_UP_BLUE
+  rotate: false
+  xy: 239, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_UP_CYAN
+  rotate: false
+  xy: 493, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_UP_CYAN
+  rotate: false
+  xy: 493, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_UP_CYAN
+  rotate: false
+  xy: 683, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_UP_CYAN
+  rotate: false
+  xy: 683, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_UP_ENEMY
+  rotate: false
+  xy: 133, 265
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_UP_ENEMY
+  rotate: false
+  xy: 133, 265
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_UP_GREEN
+  rotate: false
+  xy: 465, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_UP_GREEN
+  rotate: false
+  xy: 465, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_UP_ORANGE
+  rotate: false
+  xy: 853, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_LIGHT_UP_ORANGE
+  rotate: false
+  xy: 853, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_MEDIUM_UP_PINK
+  rotate: false
+  xy: 819, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_UP_PINK
+  rotate: false
+  xy: 819, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_UP_RED
+  rotate: false
+  xy: 765, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_UP_RED
+  rotate: false
+  xy: 765, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_MEDIUM_UP_YELLOW
+  rotate: false
+  xy: 349, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_LIGHT_UP_YELLOW
+  rotate: false
+  xy: 349, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_DOWN
+  rotate: false
+  xy: 151, 247
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_DOWN
+  rotate: false
+  xy: 599, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_DOWN_BLUE
+  rotate: false
+  xy: 843, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_DOWN_BLUE
+  rotate: false
+  xy: 997, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_DOWN_BROWN
+  rotate: false
+  xy: 459, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_DOWN_BROWN
+  rotate: false
+  xy: 143, 193
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_DOWN_CYAN
+  rotate: false
+  xy: 73, 25
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_DOWN_CYAN
+  rotate: false
+  xy: 821, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_DOWN_ENEMY
+  rotate: false
+  xy: 729, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_DOWN_ENEMY
+  rotate: false
+  xy: 215, 159
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_DOWN_GREEN
+  rotate: false
+  xy: 73, 115
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_DOWN_GREEN
+  rotate: false
+  xy: 871, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_DOWN_NEUTRAL
+  rotate: false
+  xy: 887, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_DOWN_NEUTRAL
+  rotate: false
+  xy: 343, 99
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_DOWN_ORANGE
+  rotate: false
+  xy: 513, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_DOWN_ORANGE
+  rotate: false
+  xy: 557, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_DOWN_PINK
+  rotate: false
+  xy: 987, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_DOWN_PINK
+  rotate: false
+  xy: 893, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_DOWN_RED
+  rotate: false
+  xy: 999, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_DOWN_RED
+  rotate: false
+  xy: 647, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_DOWN_YELLOW
+  rotate: false
+  xy: 879, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_DOWN_YELLOW
+  rotate: false
+  xy: 601, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_LEFT
+  rotate: false
+  xy: 817, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_LEFT
+  rotate: false
+  xy: 361, 99
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_LEFT_BLUE
+  rotate: false
+  xy: 71, 151
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_LEFT_BLUE
+  rotate: false
+  xy: 971, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_LEFT_BROWN
+  rotate: false
+  xy: 375, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_LEFT_BROWN
+  rotate: false
+  xy: 425, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_LEFT_CYAN
+  rotate: false
+  xy: 419, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_LEFT_CYAN
+  rotate: false
+  xy: 983, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_LEFT_ENEMY
+  rotate: false
+  xy: 641, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_LEFT_ENEMY
+  rotate: false
+  xy: 127, 121
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_LEFT_GREEN
+  rotate: false
+  xy: 797, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_LEFT_GREEN
+  rotate: false
+  xy: 145, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_LEFT_NEUTRAL
+  rotate: false
+  xy: 133, 247
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_LEFT_NEUTRAL
+  rotate: false
+  xy: 443, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_LEFT_ORANGE
+  rotate: false
+  xy: 981, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_LEFT_ORANGE
+  rotate: false
+  xy: 971, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_LEFT_PINK
+  rotate: false
+  xy: 531, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_LEFT_PINK
+  rotate: false
+  xy: 575, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_LEFT_RED
+  rotate: false
+  xy: 393, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_LEFT_RED
+  rotate: false
+  xy: 601, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_LEFT_YELLOW
+  rotate: false
+  xy: 603, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_LEFT_YELLOW
+  rotate: false
+  xy: 725, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_RIGHT
+  rotate: false
+  xy: 479, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_RIGHT
+  rotate: false
+  xy: 791, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_RIGHT_BLUE
+  rotate: false
+  xy: 331, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_RIGHT_BLUE
+  rotate: false
+  xy: 995, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_RIGHT_BROWN
+  rotate: false
+  xy: 835, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_RIGHT_BROWN
+  rotate: false
+  xy: 397, 99
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_RIGHT_CYAN
+  rotate: false
+  xy: 55, 97
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_RIGHT_CYAN
+  rotate: false
+  xy: 917, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_RIGHT_ENEMY
+  rotate: false
+  xy: 927, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_RIGHT_ENEMY
+  rotate: false
+  xy: 587, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_RIGHT_GREEN
+  rotate: false
+  xy: 387, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_RIGHT_GREEN
+  rotate: false
+  xy: 743, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_RIGHT_NEUTRAL
+  rotate: false
+  xy: 483, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_RIGHT_NEUTRAL
+  rotate: false
+  xy: 563, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_RIGHT_ORANGE
+  rotate: false
+  xy: 421, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_RIGHT_ORANGE
+  rotate: false
+  xy: 161, 177
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_RIGHT_PINK
+  rotate: false
+  xy: 241, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_RIGHT_PINK
+  rotate: false
+  xy: 907, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_RIGHT_RED
+  rotate: false
+  xy: 511, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_RIGHT_RED
+  rotate: false
+  xy: 143, 139
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_RIGHT_YELLOW
+  rotate: false
+  xy: 315, 415
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_RIGHT_YELLOW
+  rotate: false
+  xy: 731, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_UP
+  rotate: false
+  xy: 645, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_UP
+  rotate: false
+  xy: 965, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_UP_BLUE
+  rotate: false
+  xy: 209, 231
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_UP_BLUE
+  rotate: false
+  xy: 889, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_UP_BROWN
+  rotate: false
+  xy: 603, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_UP_BROWN
+  rotate: false
+  xy: 691, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_UP_CYAN
+  rotate: false
+  xy: 729, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_UP_CYAN
+  rotate: false
+  xy: 539, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_UP_ENEMY
+  rotate: false
+  xy: 429, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_UP_ENEMY
+  rotate: false
+  xy: 857, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_UP_GREEN
+  rotate: false
+  xy: 609, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_UP_GREEN
+  rotate: false
+  xy: 977, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_UP_NEUTRAL
+  rotate: false
+  xy: 407, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_UP_NEUTRAL
+  rotate: false
+  xy: 953, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_UP_ORANGE
+  rotate: false
+  xy: 425, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_UP_ORANGE
+  rotate: false
+  xy: 305, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_UP_PINK
+  rotate: false
+  xy: 585, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_UP_PINK
+  rotate: false
+  xy: 799, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_UP_RED
+  rotate: false
+  xy: 245, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_UP_RED
+  rotate: false
+  xy: 925, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SMALL_UP_YELLOW
+  rotate: false
+  xy: 55, 79
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SMALL_UP_YELLOW
+  rotate: false
+  xy: 889, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_DOWN
+  rotate: false
+  xy: 963, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_DOWN
+  rotate: false
+  xy: 963, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_DOWN
+  rotate: false
+  xy: 641, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_DOWN
+  rotate: false
+  xy: 641, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_DOWN_BLUE
+  rotate: false
+  xy: 221, 357
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_DOWN_BLUE
+  rotate: false
+  xy: 221, 357
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_DOWN_ENEMY
+  rotate: false
+  xy: 241, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_DOWN_ENEMY
+  rotate: false
+  xy: 241, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_DOWN_GREEN
+  rotate: false
+  xy: 259, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_DOWN_GREEN
+  rotate: false
+  xy: 259, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_DOWN_NEUTRAL
+  rotate: false
+  xy: 91, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_DOWN_NEUTRAL
+  rotate: false
+  xy: 91, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_DOWN_PINK
+  rotate: false
+  xy: 897, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_DOWN_PINK
+  rotate: false
+  xy: 897, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_DOWN_RED
+  rotate: false
+  xy: 313, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_DOWN_RED
+  rotate: false
+  xy: 313, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_DOWN_YELLOW
+  rotate: false
+  xy: 295, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_DOWN_YELLOW
+  rotate: false
+  xy: 295, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_DOWN
+  rotate: false
+  xy: 945, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_DOWN
+  rotate: false
+  xy: 341, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_DOWN_BLUE
+  rotate: false
+  xy: 419, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_DOWN_BLUE
+  rotate: false
+  xy: 1001, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_DOWN_BROWN
+  rotate: false
+  xy: 641, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_DOWN_BROWN
+  rotate: false
+  xy: 881, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_DOWN_CYAN
+  rotate: false
+  xy: 91, 61
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_DOWN_CYAN
+  rotate: false
+  xy: 269, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_DOWN_ENEMY
+  rotate: false
+  xy: 659, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_DOWN_ENEMY
+  rotate: false
+  xy: 989, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_DOWN_GREEN
+  rotate: false
+  xy: 393, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_DOWN_GREEN
+  rotate: false
+  xy: 457, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_DOWN_NEUTRAL
+  rotate: false
+  xy: 963, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_DOWN_NEUTRAL
+  rotate: false
+  xy: 863, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_DOWN_ORANGE
+  rotate: false
+  xy: 761, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_DOWN_ORANGE
+  rotate: false
+  xy: 109, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_DOWN_PINK
+  rotate: false
+  xy: 245, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_DOWN_PINK
+  rotate: false
+  xy: 893, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_DOWN_RED
+  rotate: false
+  xy: 479, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_DOWN_RED
+  rotate: false
+  xy: 1007, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_DOWN_YELLOW
+  rotate: false
+  xy: 91, 97
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_DOWN_YELLOW
+  rotate: false
+  xy: 251, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_LEFT
+  rotate: false
+  xy: 311, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_LEFT
+  rotate: false
+  xy: 911, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_LEFT_BLUE
+  rotate: false
+  xy: 497, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_LEFT_BLUE
+  rotate: false
+  xy: 161, 141
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_LEFT_BROWN
+  rotate: false
+  xy: 927, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_LEFT_BROWN
+  rotate: false
+  xy: 827, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_LEFT_CYAN
+  rotate: false
+  xy: 385, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_LEFT_CYAN
+  rotate: false
+  xy: 217, 63
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_LEFT_ENEMY
+  rotate: false
+  xy: 203, 339
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_LEFT_ENEMY
+  rotate: false
+  xy: 989, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_LEFT_GREEN
+  rotate: false
+  xy: 329, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_LEFT_GREEN
+  rotate: false
+  xy: 911, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_LEFT_NEUTRAL
+  rotate: false
+  xy: 37, 65
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_LEFT_NEUTRAL
+  rotate: false
+  xy: 853, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_LEFT_ORANGE
+  rotate: false
+  xy: 659, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_LEFT_ORANGE
+  rotate: false
+  xy: 181, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_LEFT_PINK
+  rotate: false
+  xy: 457, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_LEFT_PINK
+  rotate: false
+  xy: 737, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_LEFT_RED
+  rotate: false
+  xy: 477, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_LEFT_RED
+  rotate: false
+  xy: 847, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_LEFT_YELLOW
+  rotate: false
+  xy: 191, 231
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_LEFT_YELLOW
+  rotate: false
+  xy: 521, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_RIGHT
+  rotate: false
+  xy: 351, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_RIGHT
+  rotate: false
+  xy: 449, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_RIGHT_BLUE
+  rotate: false
+  xy: 477, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_RIGHT_BLUE
+  rotate: false
+  xy: 619, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_RIGHT_BROWN
+  rotate: false
+  xy: 173, 195
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_RIGHT_BROWN
+  rotate: false
+  xy: 593, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_RIGHT_CYAN
+  rotate: false
+  xy: 1, 85
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_RIGHT_CYAN
+  rotate: false
+  xy: 803, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_RIGHT_ENEMY
+  rotate: false
+  xy: 241, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_RIGHT_ENEMY
+  rotate: false
+  xy: 827, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_RIGHT_GREEN
+  rotate: false
+  xy: 259, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_RIGHT_GREEN
+  rotate: false
+  xy: 971, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_RIGHT_NEUTRAL
+  rotate: false
+  xy: 739, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_RIGHT_NEUTRAL
+  rotate: false
+  xy: 287, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_RIGHT_ORANGE
+  rotate: false
+  xy: 19, 49
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_RIGHT_ORANGE
+  rotate: false
+  xy: 583, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_RIGHT_PINK
+  rotate: false
+  xy: 19, 85
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_RIGHT_PINK
+  rotate: false
+  xy: 529, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_RIGHT_RED
+  rotate: false
+  xy: 151, 265
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_RIGHT_RED
+  rotate: false
+  xy: 583, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_RIGHT_YELLOW
+  rotate: false
+  xy: 475, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_RIGHT_YELLOW
+  rotate: false
+  xy: 467, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_UP
+  rotate: false
+  xy: 335, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_UP
+  rotate: false
+  xy: 431, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_UP_BLUE
+  rotate: false
+  xy: 781, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_UP_BLUE
+  rotate: false
+  xy: 289, 63
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_UP_BROWN
+  rotate: false
+  xy: 987, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_UP_BROWN
+  rotate: false
+  xy: 1001, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_UP_CYAN
+  rotate: false
+  xy: 675, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_UP_CYAN
+  rotate: false
+  xy: 605, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_UP_ENEMY
+  rotate: false
+  xy: 227, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_UP_ENEMY
+  rotate: false
+  xy: 803, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_UP_GREEN
+  rotate: false
+  xy: 169, 317
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_UP_GREEN
+  rotate: false
+  xy: 889, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_UP_NEUTRAL
+  rotate: false
+  xy: 151, 301
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_UP_NEUTRAL
+  rotate: false
+  xy: 911, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_UP_ORANGE
+  rotate: false
+  xy: 133, 301
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_UP_ORANGE
+  rotate: false
+  xy: 545, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_UP_PINK
+  rotate: false
+  xy: 727, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_UP_PINK
+  rotate: false
+  xy: 163, 87
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_UP_RED
+  rotate: false
+  xy: 817, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_HEAVY_UP_RED
+  rotate: false
+  xy: 253, 63
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_UP_YELLOW
+  rotate: false
+  xy: 91, 133
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_HEAVY_UP_YELLOW
+  rotate: false
+  xy: 197, 123
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_LEFT
+  rotate: false
+  xy: 483, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_LEFT
+  rotate: false
+  xy: 483, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_LEFT
+  rotate: false
+  xy: 947, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_LEFT
+  rotate: false
+  xy: 947, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_LEFT_BLUE
+  rotate: false
+  xy: 91, 115
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_LEFT_BLUE
+  rotate: false
+  xy: 91, 115
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_LEFT_BROWN
+  rotate: false
+  xy: 765, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_LEFT_BROWN
+  rotate: false
+  xy: 765, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_LEFT_BROWN
+  rotate: false
+  xy: 763, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_LEFT_BROWN
+  rotate: false
+  xy: 763, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_LEFT_CYAN
+  rotate: false
+  xy: 527, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_LEFT_CYAN
+  rotate: false
+  xy: 527, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_LEFT_ENEMY
+  rotate: false
+  xy: 891, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_LEFT_ENEMY
+  rotate: false
+  xy: 891, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_LEFT_GREEN
+  rotate: false
+  xy: 315, 451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_LEFT_GREEN
+  rotate: false
+  xy: 315, 451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_LEFT_GREEN
+  rotate: false
+  xy: 929, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_LEFT_GREEN
+  rotate: false
+  xy: 929, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_LEFT_NEUTRAL
+  rotate: false
+  xy: 293, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_LEFT_NEUTRAL
+  rotate: false
+  xy: 293, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_LEFT_PINK
+  rotate: false
+  xy: 89, 151
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_LEFT_PINK
+  rotate: false
+  xy: 89, 151
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_LEFT_RED
+  rotate: false
+  xy: 369, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_LEFT_RED
+  rotate: false
+  xy: 369, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_LEFT_YELLOW
+  rotate: false
+  xy: 325, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_LEFT_YELLOW
+  rotate: false
+  xy: 325, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_RIGHT_BLUE
+  rotate: false
+  xy: 569, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_RIGHT_BLUE
+  rotate: false
+  xy: 569, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_RIGHT_CYAN
+  rotate: false
+  xy: 279, 461
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_RIGHT_CYAN
+  rotate: false
+  xy: 279, 461
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_RIGHT_CYAN
+  rotate: false
+  xy: 389, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_RIGHT_CYAN
+  rotate: false
+  xy: 389, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_RIGHT_ENEMY
+  rotate: false
+  xy: 349, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_RIGHT_ENEMY
+  rotate: false
+  xy: 349, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_RIGHT_ORANGE
+  rotate: false
+  xy: 853, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_RIGHT_ORANGE
+  rotate: false
+  xy: 853, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_RIGHT_PINK
+  rotate: false
+  xy: 443, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_RIGHT_PINK
+  rotate: false
+  xy: 443, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_RIGHT_RED
+  rotate: false
+  xy: 551, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_RIGHT_RED
+  rotate: false
+  xy: 551, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_UP
+  rotate: false
+  xy: 537, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_UP
+  rotate: false
+  xy: 537, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_UP_BLUE
+  rotate: false
+  xy: 1, 31
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_UP_BLUE
+  rotate: false
+  xy: 1, 31
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_UP_BLUE
+  rotate: false
+  xy: 545, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_UP_BLUE
+  rotate: false
+  xy: 545, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_UP_BROWN
+  rotate: false
+  xy: 861, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_UP_BROWN
+  rotate: false
+  xy: 861, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_UP_BROWN
+  rotate: false
+  xy: 1001, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_UP_BROWN
+  rotate: false
+  xy: 1001, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_UP_CYAN
+  rotate: false
+  xy: 713, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_UP_CYAN
+  rotate: false
+  xy: 713, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_UP_ENEMY
+  rotate: false
+  xy: 423, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_UP_ENEMY
+  rotate: false
+  xy: 423, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_UP_GREEN
+  rotate: false
+  xy: 37, 83
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_UP_GREEN
+  rotate: false
+  xy: 37, 83
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_UP_GREEN
+  rotate: false
+  xy: 871, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_UP_GREEN
+  rotate: false
+  xy: 871, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_UP_NEUTRAL
+  rotate: false
+  xy: 843, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_UP_NEUTRAL
+  rotate: false
+  xy: 843, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_UP_PINK
+  rotate: false
+  xy: 367, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_UP_PINK
+  rotate: false
+  xy: 367, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_UP_RED
+  rotate: false
+  xy: 307, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_UP_RED
+  rotate: false
+  xy: 307, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_SUPER_UP_YELLOW
+  rotate: false
+  xy: 281, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_HEAVY_UP_YELLOW
+  rotate: false
+  xy: 281, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_AI_SUPER_UP_YELLOW
+  rotate: false
+  xy: 893, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_AI_HEAVY_UP_YELLOW
+  rotate: false
+  xy: 893, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_DOWN
+  rotate: false
+  xy: 385, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_DOWN
+  rotate: false
+  xy: 997, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_DOWN_BLUE
+  rotate: false
+  xy: 819, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_DOWN_BLUE
+  rotate: false
+  xy: 611, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_DOWN_BROWN
+  rotate: false
+  xy: 357, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_DOWN_BROWN
+  rotate: false
+  xy: 583, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_DOWN_CYAN
+  rotate: false
+  xy: 365, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_DOWN_CYAN
+  rotate: false
+  xy: 947, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_DOWN_ENEMY
+  rotate: false
+  xy: 713, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_DOWN_ENEMY
+  rotate: false
+  xy: 235, 81
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_DOWN_GREEN
+  rotate: false
+  xy: 835, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_DOWN_GREEN
+  rotate: false
+  xy: 289, 99
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_DOWN_NEUTRAL
+  rotate: false
+  xy: 533, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_DOWN_NEUTRAL
+  rotate: false
+  xy: 935, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_DOWN_ORANGE
+  rotate: false
+  xy: 91, 79
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_DOWN_ORANGE
+  rotate: false
+  xy: 305, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_DOWN_PINK
+  rotate: false
+  xy: 855, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_DOWN_PINK
+  rotate: false
+  xy: 269, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_DOWN_RED
+  rotate: false
+  xy: 469, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_DOWN_RED
+  rotate: false
+  xy: 217, 45
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_DOWN_YELLOW
+  rotate: false
+  xy: 639, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_DOWN_YELLOW
+  rotate: false
+  xy: 835, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_LEFT
+  rotate: false
+  xy: 191, 195
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_LEFT
+  rotate: false
+  xy: 719, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_LEFT_BLUE
+  rotate: false
+  xy: 235, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_LEFT_BLUE
+  rotate: false
+  xy: 683, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_LEFT_BROWN
+  rotate: false
+  xy: 73, 79
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_LEFT_BROWN
+  rotate: false
+  xy: 161, 123
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_LEFT_CYAN
+  rotate: false
+  xy: 475, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_LEFT_CYAN
+  rotate: false
+  xy: 629, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_LEFT_ENEMY
+  rotate: false
+  xy: 73, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_LEFT_ENEMY
+  rotate: false
+  xy: 323, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_LEFT_GREEN
+  rotate: false
+  xy: 523, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_LEFT_GREEN
+  rotate: false
+  xy: 593, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_LEFT_NEUTRAL
+  rotate: false
+  xy: 263, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_LEFT_NEUTRAL
+  rotate: false
+  xy: 109, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_LEFT_ORANGE
+  rotate: false
+  xy: 173, 231
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_LEFT_ORANGE
+  rotate: false
+  xy: 503, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_LEFT_PINK
+  rotate: false
+  xy: 747, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_LEFT_PINK
+  rotate: false
+  xy: 521, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_LEFT_RED
+  rotate: false
+  xy: 71, 169
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_LEFT_RED
+  rotate: false
+  xy: 851, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_LEFT_YELLOW
+  rotate: false
+  xy: 927, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_LEFT_YELLOW
+  rotate: false
+  xy: 749, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_RIGHT
+  rotate: false
+  xy: 567, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_RIGHT
+  rotate: false
+  xy: 161, 159
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_RIGHT_BLUE
+  rotate: false
+  xy: 657, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_RIGHT_BLUE
+  rotate: false
+  xy: 727, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_RIGHT_BROWN
+  rotate: false
+  xy: 37, 137
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_RIGHT_BROWN
+  rotate: false
+  xy: 817, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_RIGHT_CYAN
+  rotate: false
+  xy: 465, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_RIGHT_CYAN
+  rotate: false
+  xy: 947, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_RIGHT_ENEMY
+  rotate: false
+  xy: 169, 263
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_RIGHT_ENEMY
+  rotate: false
+  xy: 955, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_RIGHT_GREEN
+  rotate: false
+  xy: 801, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_RIGHT_GREEN
+  rotate: false
+  xy: 287, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_RIGHT_NEUTRAL
+  rotate: false
+  xy: 549, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_RIGHT_NEUTRAL
+  rotate: false
+  xy: 395, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_RIGHT_ORANGE
+  rotate: false
+  xy: 37, 119
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_RIGHT_ORANGE
+  rotate: false
+  xy: 835, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_RIGHT_PINK
+  rotate: false
+  xy: 639, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_RIGHT_PINK
+  rotate: false
+  xy: 569, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_RIGHT_RED
+  rotate: false
+  xy: 439, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_RIGHT_RED
+  rotate: false
+  xy: 361, 45
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_RIGHT_YELLOW
+  rotate: false
+  xy: 447, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_RIGHT_YELLOW
+  rotate: false
+  xy: 653, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_UP
+  rotate: false
+  xy: 547, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_UP
+  rotate: false
+  xy: 233, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_UP_BLUE
+  rotate: false
+  xy: 631, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_UP_BLUE
+  rotate: false
+  xy: 179, 141
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_UP_BROWN
+  rotate: false
+  xy: 187, 303
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_UP_BROWN
+  rotate: false
+  xy: 959, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_UP_CYAN
+  rotate: false
+  xy: 451, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_UP_CYAN
+  rotate: false
+  xy: 199, 15
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_UP_ENEMY
+  rotate: false
+  xy: 657, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_UP_ENEMY
+  rotate: false
+  xy: 701, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_UP_GREEN
+  rotate: false
+  xy: 873, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_UP_GREEN
+  rotate: false
+  xy: 899, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_UP_NEUTRAL
+  rotate: false
+  xy: 513, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_UP_NEUTRAL
+  rotate: false
+  xy: 125, 193
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_UP_ORANGE
+  rotate: false
+  xy: 583, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_UP_ORANGE
+  rotate: false
+  xy: 809, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_UP_PINK
+  rotate: false
+  xy: 371, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_UP_PINK
+  rotate: false
+  xy: 629, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_UP_RED
+  rotate: false
+  xy: 371, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_DOUBLE_GUN_MEDIUM_UP_RED
+  rotate: false
+  xy: 917, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_UP_YELLOW
+  rotate: false
+  xy: 333, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_DOUBLE_GUN_MEDIUM_UP_YELLOW
+  rotate: false
+  xy: 197, 141
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_DOWN
+  rotate: false
+  xy: 565, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_DOWN
+  rotate: false
+  xy: 377, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_DOWN_BLUE
+  rotate: false
+  xy: 169, 335
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_DOWN_BLUE
+  rotate: false
+  xy: 845, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_DOWN_BROWN
+  rotate: false
+  xy: 401, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_DOWN_BROWN
+  rotate: false
+  xy: 997, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_DOWN_CYAN
+  rotate: false
+  xy: 491, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_DOWN_CYAN
+  rotate: false
+  xy: 755, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_DOWN_ENEMY
+  rotate: false
+  xy: 437, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_DOWN_ENEMY
+  rotate: false
+  xy: 107, 167
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_DOWN_GREEN
+  rotate: false
+  xy: 37, 101
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_DOWN_GREEN
+  rotate: false
+  xy: 665, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_DOWN_NEUTRAL
+  rotate: false
+  xy: 587, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_DOWN_NEUTRAL
+  rotate: false
+  xy: 359, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_DOWN_ORANGE
+  rotate: false
+  xy: 35, 155
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_DOWN_ORANGE
+  rotate: false
+  xy: 527, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_DOWN_PINK
+  rotate: false
+  xy: 873, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_DOWN_PINK
+  rotate: false
+  xy: 755, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_DOWN_RED
+  rotate: false
+  xy: 727, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_DOWN_RED
+  rotate: false
+  xy: 127, 67
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_DOWN_YELLOW
+  rotate: false
+  xy: 403, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_DOWN_YELLOW
+  rotate: false
+  xy: 233, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_LEFT
+  rotate: false
+  xy: 505, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_LEFT
+  rotate: false
+  xy: 289, 27
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_LEFT_BLUE
+  rotate: false
+  xy: 515, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_LEFT_BLUE
+  rotate: false
+  xy: 341, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_LEFT_BROWN
+  rotate: false
+  xy: 907, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_LEFT_BROWN
+  rotate: false
+  xy: 361, 27
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_LEFT_CYAN
+  rotate: false
+  xy: 487, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_LEFT_CYAN
+  rotate: false
+  xy: 235, 27
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_LEFT_ENEMY
+  rotate: false
+  xy: 369, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_LEFT_ENEMY
+  rotate: false
+  xy: 691, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_LEFT_GREEN
+  rotate: false
+  xy: 621, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_LEFT_GREEN
+  rotate: false
+  xy: 745, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_LEFT_NEUTRAL
+  rotate: false
+  xy: 299, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_LEFT_NEUTRAL
+  rotate: false
+  xy: 199, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_LEFT_ORANGE
+  rotate: false
+  xy: 411, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_LEFT_ORANGE
+  rotate: false
+  xy: 511, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_LEFT_PINK
+  rotate: false
+  xy: 457, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_LEFT_PINK
+  rotate: false
+  xy: 1007, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_LEFT_RED
+  rotate: false
+  xy: 639, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_LEFT_RED
+  rotate: false
+  xy: 647, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_LEFT_YELLOW
+  rotate: false
+  xy: 473, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_LEFT_YELLOW
+  rotate: false
+  xy: 503, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_RIGHT
+  rotate: false
+  xy: 873, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_RIGHT
+  rotate: false
+  xy: 937, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_RIGHT_BLUE
+  rotate: false
+  xy: 347, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_RIGHT_BLUE
+  rotate: false
+  xy: 163, 51
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_RIGHT_BROWN
+  rotate: false
+  xy: 491, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_RIGHT_BROWN
+  rotate: false
+  xy: 539, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_RIGHT_CYAN
+  rotate: false
+  xy: 685, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_RIGHT_CYAN
+  rotate: false
+  xy: 611, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_RIGHT_ENEMY
+  rotate: false
+  xy: 541, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_RIGHT_ENEMY
+  rotate: false
+  xy: 827, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_RIGHT_GREEN
+  rotate: false
+  xy: 235, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_RIGHT_GREEN
+  rotate: false
+  xy: 701, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_RIGHT_NEUTRAL
+  rotate: false
+  xy: 295, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_RIGHT_NEUTRAL
+  rotate: false
+  xy: 911, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_RIGHT_ORANGE
+  rotate: false
+  xy: 315, 433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_RIGHT_ORANGE
+  rotate: false
+  xy: 413, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_RIGHT_PINK
+  rotate: false
+  xy: 191, 213
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_RIGHT_PINK
+  rotate: false
+  xy: 539, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_RIGHT_RED
+  rotate: false
+  xy: 19, 31
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_RIGHT_RED
+  rotate: false
+  xy: 617, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_RIGHT_YELLOW
+  rotate: false
+  xy: 735, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_RIGHT_YELLOW
+  rotate: false
+  xy: 515, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_UP
+  rotate: false
+  xy: 297, 443
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_UP
+  rotate: false
+  xy: 875, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_UP_BLUE
+  rotate: false
+  xy: 873, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_UP_BLUE
+  rotate: false
+  xy: 743, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_UP_BROWN
+  rotate: false
+  xy: 379, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_UP_BROWN
+  rotate: false
+  xy: 929, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_UP_CYAN
+  rotate: false
+  xy: 627, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_UP_CYAN
+  rotate: false
+  xy: 839, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_UP_ENEMY
+  rotate: false
+  xy: 401, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_UP_ENEMY
+  rotate: false
+  xy: 995, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_UP_GREEN
+  rotate: false
+  xy: 711, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_UP_GREEN
+  rotate: false
+  xy: 503, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_UP_NEUTRAL
+  rotate: false
+  xy: 457, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_UP_NEUTRAL
+  rotate: false
+  xy: 343, 63
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_UP_ORANGE
+  rotate: false
+  xy: 659, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_UP_ORANGE
+  rotate: false
+  xy: 127, 103
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_UP_PINK
+  rotate: false
+  xy: 339, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_UP_PINK
+  rotate: false
+  xy: 565, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_UP_RED
+  rotate: false
+  xy: 91, 25
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_FLAMETHROWER_UP_RED
+  rotate: false
+  xy: 853, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_UP_YELLOW
+  rotate: false
+  xy: 205, 303
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_FLAMETHROWER_UP_YELLOW
+  rotate: false
+  xy: 377, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_DOWN
+  rotate: false
+  xy: 209, 195
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_DOWN
+  rotate: false
+  xy: 209, 195
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_DOWN_BLUE
+  rotate: false
+  xy: 603, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_DOWN_BLUE
+  rotate: false
+  xy: 603, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_DOWN_CYAN
+  rotate: false
+  xy: 353, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_DOWN_CYAN
+  rotate: false
+  xy: 353, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_DOWN_CYAN
+  rotate: false
+  xy: 197, 159
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_DOWN_CYAN
+  rotate: false
+  xy: 197, 159
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_DOWN_ENEMY
+  rotate: false
+  xy: 999, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_DOWN_ENEMY
+  rotate: false
+  xy: 999, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_DOWN_ENEMY
+  rotate: false
+  xy: 655, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_DOWN_ENEMY
+  rotate: false
+  xy: 655, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_DOWN_GREEN
+  rotate: false
+  xy: 459, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_DOWN_GREEN
+  rotate: false
+  xy: 459, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_DOWN_NEUTRAL
+  rotate: false
+  xy: 261, 457
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_DOWN_NEUTRAL
+  rotate: false
+  xy: 261, 457
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_DOWN_NEUTRAL
+  rotate: false
+  xy: 559, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_DOWN_NEUTRAL
+  rotate: false
+  xy: 559, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_DOWN_ORANGE
+  rotate: false
+  xy: 245, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_DOWN_ORANGE
+  rotate: false
+  xy: 245, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_DOWN_PINK
+  rotate: false
+  xy: 351, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_DOWN_PINK
+  rotate: false
+  xy: 351, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_DOWN_YELLOW
+  rotate: false
+  xy: 55, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_DOWN_YELLOW
+  rotate: false
+  xy: 55, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_DOWN_YELLOW
+  rotate: false
+  xy: 973, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_DOWN_YELLOW
+  rotate: false
+  xy: 973, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_LEFT
+  rotate: false
+  xy: 279, 425
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_LEFT
+  rotate: false
+  xy: 279, 425
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_LEFT_BLUE
+  rotate: false
+  xy: 299, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_LEFT_BLUE
+  rotate: false
+  xy: 299, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_LEFT_BROWN
+  rotate: false
+  xy: 529, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_LEFT_BROWN
+  rotate: false
+  xy: 529, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_LEFT_CYAN
+  rotate: false
+  xy: 635, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_LEFT_CYAN
+  rotate: false
+  xy: 635, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_LEFT_GREEN
+  rotate: false
+  xy: 313, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_LEFT_GREEN
+  rotate: false
+  xy: 313, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_LEFT_NEUTRAL
+  rotate: false
+  xy: 461, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_LEFT_NEUTRAL
+  rotate: false
+  xy: 461, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_LEFT_ORANGE
+  rotate: false
+  xy: 281, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_LEFT_ORANGE
+  rotate: false
+  xy: 281, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_LEFT_PINK
+  rotate: false
+  xy: 91, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_LEFT_PINK
+  rotate: false
+  xy: 91, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_LEFT_YELLOW
+  rotate: false
+  xy: 223, 303
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_LEFT_YELLOW
+  rotate: false
+  xy: 223, 303
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_LEFT_YELLOW
+  rotate: false
+  xy: 821, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_LEFT_YELLOW
+  rotate: false
+  xy: 821, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_RIGHT
+  rotate: false
+  xy: 133, 283
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_RIGHT
+  rotate: false
+  xy: 133, 283
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_RIGHT
+  rotate: false
+  xy: 577, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_RIGHT
+  rotate: false
+  xy: 577, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_RIGHT_BLUE
+  rotate: false
+  xy: 351, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_RIGHT_BLUE
+  rotate: false
+  xy: 351, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_RIGHT_BLUE
+  rotate: false
+  xy: 1001, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_RIGHT_BLUE
+  rotate: false
+  xy: 1001, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_RIGHT_BROWN
+  rotate: false
+  xy: 205, 249
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_RIGHT_BROWN
+  rotate: false
+  xy: 205, 249
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_RIGHT_BROWN
+  rotate: false
+  xy: 871, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_RIGHT_BROWN
+  rotate: false
+  xy: 871, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_RIGHT_CYAN
+  rotate: false
+  xy: 187, 321
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_RIGHT_CYAN
+  rotate: false
+  xy: 187, 321
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_RIGHT_CYAN
+  rotate: false
+  xy: 871, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_RIGHT_CYAN
+  rotate: false
+  xy: 871, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_RIGHT_ENEMY
+  rotate: false
+  xy: 239, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_RIGHT_ENEMY
+  rotate: false
+  xy: 239, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_RIGHT_GREEN
+  rotate: false
+  xy: 155, 211
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_RIGHT_GREEN
+  rotate: false
+  xy: 155, 211
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_RIGHT_GREEN
+  rotate: false
+  xy: 287, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_RIGHT_GREEN
+  rotate: false
+  xy: 287, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_RIGHT_NEUTRAL
+  rotate: false
+  xy: 385, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_RIGHT_NEUTRAL
+  rotate: false
+  xy: 385, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_RIGHT_NEUTRAL
+  rotate: false
+  xy: 125, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_RIGHT_NEUTRAL
+  rotate: false
+  xy: 125, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_RIGHT_PINK
+  rotate: false
+  xy: 261, 439
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_RIGHT_PINK
+  rotate: false
+  xy: 261, 439
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_RIGHT_PINK
+  rotate: false
+  xy: 943, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_RIGHT_PINK
+  rotate: false
+  xy: 943, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_RIGHT_RED
+  rotate: false
+  xy: 781, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_RIGHT_RED
+  rotate: false
+  xy: 781, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_UP_BLUE
+  rotate: false
+  xy: 441, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_UP_BLUE
+  rotate: false
+  xy: 441, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_UP_BROWN
+  rotate: false
+  xy: 245, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_UP_BROWN
+  rotate: false
+  xy: 245, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_UP_CYAN
+  rotate: false
+  xy: 315, 469
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_UP_CYAN
+  rotate: false
+  xy: 315, 469
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_UP_ENEMY
+  rotate: false
+  xy: 271, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_UP_ENEMY
+  rotate: false
+  xy: 271, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_UP_GREEN
+  rotate: false
+  xy: 461, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_UP_GREEN
+  rotate: false
+  xy: 461, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_UP_PINK
+  rotate: false
+  xy: 369, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_UP_PINK
+  rotate: false
+  xy: 369, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_UP_RED
+  rotate: false
+  xy: 263, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_UP_RED
+  rotate: false
+  xy: 263, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_UP_RED
+  rotate: false
+  xy: 977, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_UP_RED
+  rotate: false
+  xy: 977, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_UP_YELLOW
+  rotate: false
+  xy: 317, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_UP_YELLOW
+  rotate: false
+  xy: 317, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_UP_YELLOW
+  rotate: false
+  xy: 179, 159
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_UP_YELLOW
+  rotate: false
+  xy: 179, 159
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_DOWN
+  rotate: false
+  xy: 657, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_DOWN
+  rotate: false
+  xy: 197, 177
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_DOWN_BLUE
+  rotate: false
+  xy: 383, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_DOWN_BLUE
+  rotate: false
+  xy: 979, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_DOWN_BROWN
+  rotate: false
+  xy: 439, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_DOWN_BROWN
+  rotate: false
+  xy: 325, 45
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_DOWN_CYAN
+  rotate: false
+  xy: 37, 29
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_DOWN_CYAN
+  rotate: false
+  xy: 773, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_DOWN_ENEMY
+  rotate: false
+  xy: 655, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_DOWN_ENEMY
+  rotate: false
+  xy: 449, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_DOWN_GREEN
+  rotate: false
+  xy: 655, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_DOWN_GREEN
+  rotate: false
+  xy: 611, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_DOWN_NEUTRAL
+  rotate: false
+  xy: 819, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_DOWN_NEUTRAL
+  rotate: false
+  xy: 305, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_DOWN_ORANGE
+  rotate: false
+  xy: 459, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_DOWN_ORANGE
+  rotate: false
+  xy: 359, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_DOWN_PINK
+  rotate: false
+  xy: 253, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_DOWN_PINK
+  rotate: false
+  xy: 857, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_DOWN_RED
+  rotate: false
+  xy: 603, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_DOWN_RED
+  rotate: false
+  xy: 431, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_DOWN_YELLOW
+  rotate: false
+  xy: 891, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_DOWN_YELLOW
+  rotate: false
+  xy: 725, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_LEFT
+  rotate: false
+  xy: 295, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_LEFT
+  rotate: false
+  xy: 907, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_LEFT_BLUE
+  rotate: false
+  xy: 511, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_LEFT_BLUE
+  rotate: false
+  xy: 665, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_LEFT_BROWN
+  rotate: false
+  xy: 263, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_LEFT_BROWN
+  rotate: false
+  xy: 857, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_LEFT_CYAN
+  rotate: false
+  xy: 415, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_LEFT_CYAN
+  rotate: false
+  xy: 145, 15
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_LEFT_ENEMY
+  rotate: false
+  xy: 621, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_LEFT_ENEMY
+  rotate: false
+  xy: 449, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_LEFT_GREEN
+  rotate: false
+  xy: 783, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_LEFT_GREEN
+  rotate: false
+  xy: 647, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_LEFT_NEUTRAL
+  rotate: false
+  xy: 279, 443
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_LEFT_NEUTRAL
+  rotate: false
+  xy: 961, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_LEFT_ORANGE
+  rotate: false
+  xy: 747, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_LEFT_ORANGE
+  rotate: false
+  xy: 557, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_LEFT_PINK
+  rotate: false
+  xy: 473, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_LEFT_PINK
+  rotate: false
+  xy: 323, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_LEFT_RED
+  rotate: false
+  xy: 339, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_LEFT_RED
+  rotate: false
+  xy: 511, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_LEFT_YELLOW
+  rotate: false
+  xy: 477, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_LEFT_YELLOW
+  rotate: false
+  xy: 623, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_RIGHT
+  rotate: false
+  xy: 349, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_RIGHT
+  rotate: false
+  xy: 217, 99
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_RIGHT_BLUE
+  rotate: false
+  xy: 901, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_RIGHT_BLUE
+  rotate: false
+  xy: 307, 99
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_RIGHT_BROWN
+  rotate: false
+  xy: 1, 49
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_RIGHT_BROWN
+  rotate: false
+  xy: 839, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_RIGHT_CYAN
+  rotate: false
+  xy: 621, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_RIGHT_CYAN
+  rotate: false
+  xy: 757, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_RIGHT_ENEMY
+  rotate: false
+  xy: 891, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_RIGHT_ENEMY
+  rotate: false
+  xy: 745, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_RIGHT_GREEN
+  rotate: false
+  xy: 217, 375
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_RIGHT_GREEN
+  rotate: false
+  xy: 695, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_RIGHT_NEUTRAL
+  rotate: false
+  xy: 551, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_RIGHT_NEUTRAL
+  rotate: false
+  xy: 953, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_RIGHT_ORANGE
+  rotate: false
+  xy: 605, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_RIGHT_ORANGE
+  rotate: false
+  xy: 431, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_RIGHT_PINK
+  rotate: false
+  xy: 677, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_RIGHT_PINK
+  rotate: false
+  xy: 145, 69
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_RIGHT_RED
+  rotate: false
+  xy: 735, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_RIGHT_RED
+  rotate: false
+  xy: 613, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_RIGHT_YELLOW
+  rotate: false
+  xy: 403, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_RIGHT_YELLOW
+  rotate: false
+  xy: 107, 185
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_UP
+  rotate: false
+  xy: 763, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_UP
+  rotate: false
+  xy: 181, 33
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_UP_BLUE
+  rotate: false
+  xy: 729, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_UP_BLUE
+  rotate: false
+  xy: 773, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_UP_BROWN
+  rotate: false
+  xy: 695, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_UP_BROWN
+  rotate: false
+  xy: 217, 81
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_UP_CYAN
+  rotate: false
+  xy: 275, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_UP_CYAN
+  rotate: false
+  xy: 925, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_UP_ENEMY
+  rotate: false
+  xy: 749, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_UP_ENEMY
+  rotate: false
+  xy: 253, 45
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_UP_GREEN
+  rotate: false
+  xy: 627, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_UP_GREEN
+  rotate: false
+  xy: 601, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_UP_NEUTRAL
+  rotate: false
+  xy: 1, 13
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_UP_NEUTRAL
+  rotate: false
+  xy: 907, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_UP_ORANGE
+  rotate: false
+  xy: 509, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_UP_ORANGE
+  rotate: false
+  xy: 343, 45
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_UP_PINK
+  rotate: false
+  xy: 657, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_UP_PINK
+  rotate: false
+  xy: 817, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_UP_RED
+  rotate: false
+  xy: 317, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_UP_RED
+  rotate: false
+  xy: 253, 99
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_LIGHT_UP_YELLOW
+  rotate: false
+  xy: 37, 47
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_LIGHT_UP_YELLOW
+  rotate: false
+  xy: 683, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_DOWN
+  rotate: false
+  xy: 799, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_DOWN
+  rotate: false
+  xy: 325, 81
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_DOWN_BLUE
+  rotate: false
+  xy: 37, 11
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_DOWN_BLUE
+  rotate: false
+  xy: 755, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_DOWN_BROWN
+  rotate: false
+  xy: 329, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_DOWN_BROWN
+  rotate: false
+  xy: 961, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_DOWN_CYAN
+  rotate: false
+  xy: 439, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_DOWN_CYAN
+  rotate: false
+  xy: 719, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_DOWN_ENEMY
+  rotate: false
+  xy: 397, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_DOWN_ENEMY
+  rotate: false
+  xy: 979, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_DOWN_GREEN
+  rotate: false
+  xy: 513, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_DOWN_GREEN
+  rotate: false
+  xy: 449, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_DOWN_NEUTRAL
+  rotate: false
+  xy: 335, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_DOWN_NEUTRAL
+  rotate: false
+  xy: 361, 81
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_DOWN_ORANGE
+  rotate: false
+  xy: 205, 321
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_DOWN_ORANGE
+  rotate: false
+  xy: 341, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_DOWN_PINK
+  rotate: false
+  xy: 855, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_DOWN_PINK
+  rotate: false
+  xy: 701, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_DOWN_RED
+  rotate: false
+  xy: 573, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_DOWN_RED
+  rotate: false
+  xy: 979, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_DOWN_YELLOW
+  rotate: false
+  xy: 675, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_DOWN_YELLOW
+  rotate: false
+  xy: 869, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_LEFT
+  rotate: false
+  xy: 405, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_LEFT
+  rotate: false
+  xy: 673, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_LEFT_BLUE
+  rotate: false
+  xy: 365, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_LEFT_BLUE
+  rotate: false
+  xy: 199, 87
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_LEFT_BROWN
+  rotate: false
+  xy: 871, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_LEFT_BROWN
+  rotate: false
+  xy: 307, 27
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_LEFT_CYAN
+  rotate: false
+  xy: 551, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_LEFT_CYAN
+  rotate: false
+  xy: 791, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_LEFT_ENEMY
+  rotate: false
+  xy: 441, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_LEFT_ENEMY
+  rotate: false
+  xy: 673, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_LEFT_GREEN
+  rotate: false
+  xy: 693, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_LEFT_GREEN
+  rotate: false
+  xy: 623, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_LEFT_NEUTRAL
+  rotate: false
+  xy: 443, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_LEFT_NEUTRAL
+  rotate: false
+  xy: 809, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_LEFT_ORANGE
+  rotate: false
+  xy: 223, 249
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_LEFT_ORANGE
+  rotate: false
+  xy: 485, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_LEFT_PINK
+  rotate: false
+  xy: 257, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_LEFT_PINK
+  rotate: false
+  xy: 737, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_LEFT_RED
+  rotate: false
+  xy: 479, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_LEFT_RED
+  rotate: false
+  xy: 251, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_LEFT_YELLOW
+  rotate: false
+  xy: 945, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_LEFT_YELLOW
+  rotate: false
+  xy: 767, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_RIGHT
+  rotate: false
+  xy: 547, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_RIGHT
+  rotate: false
+  xy: 539, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_RIGHT_BLUE
+  rotate: false
+  xy: 289, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_RIGHT_BLUE
+  rotate: false
+  xy: 127, 31
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_RIGHT_BROWN
+  rotate: false
+  xy: 531, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_RIGHT_BROWN
+  rotate: false
+  xy: 143, 175
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_RIGHT_CYAN
+  rotate: false
+  xy: 547, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_RIGHT_CYAN
+  rotate: false
+  xy: 359, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_RIGHT_ENEMY
+  rotate: false
+  xy: 55, 133
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_RIGHT_ENEMY
+  rotate: false
+  xy: 767, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_RIGHT_GREEN
+  rotate: false
+  xy: 73, 97
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_RIGHT_GREEN
+  rotate: false
+  xy: 923, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_RIGHT_NEUTRAL
+  rotate: false
+  xy: 331, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_RIGHT_NEUTRAL
+  rotate: false
+  xy: 947, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_RIGHT_ORANGE
+  rotate: false
+  xy: 187, 267
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_RIGHT_ORANGE
+  rotate: false
+  xy: 889, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_RIGHT_PINK
+  rotate: false
+  xy: 205, 267
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_RIGHT_PINK
+  rotate: false
+  xy: 971, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_RIGHT_RED
+  rotate: false
+  xy: 677, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_RIGHT_RED
+  rotate: false
+  xy: 199, 69
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_RIGHT_YELLOW
+  rotate: false
+  xy: 853, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_RIGHT_YELLOW
+  rotate: false
+  xy: 271, 27
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_UP
+  rotate: false
+  xy: 19, 121
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_UP
+  rotate: false
+  xy: 961, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_UP_BLUE
+  rotate: false
+  xy: 747, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_UP_BLUE
+  rotate: false
+  xy: 791, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_UP_BROWN
+  rotate: false
+  xy: 475, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_UP_BROWN
+  rotate: false
+  xy: 325, 27
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_UP_CYAN
+  rotate: false
+  xy: 275, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_UP_CYAN
+  rotate: false
+  xy: 943, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_UP_ENEMY
+  rotate: false
+  xy: 673, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_UP_ENEMY
+  rotate: false
+  xy: 647, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_UP_GREEN
+  rotate: false
+  xy: 623, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_UP_GREEN
+  rotate: false
+  xy: 809, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_UP_NEUTRAL
+  rotate: false
+  xy: 335, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_UP_NEUTRAL
+  rotate: false
+  xy: 271, 63
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_UP_ORANGE
+  rotate: false
+  xy: 811, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_UP_ORANGE
+  rotate: false
+  xy: 109, 27
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_UP_PINK
+  rotate: false
+  xy: 681, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_UP_PINK
+  rotate: false
+  xy: 965, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_UP_RED
+  rotate: false
+  xy: 103, 203
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MARK_I_UP_RED
+  rotate: false
+  xy: 719, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_UP_YELLOW
+  rotate: false
+  xy: 353, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MARK_I_UP_YELLOW
+  rotate: false
+  xy: 683, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_DOWN
+  rotate: false
+  xy: 511, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_DOWN
+  rotate: false
+  xy: 773, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_DOWN_BLUE
+  rotate: false
+  xy: 383, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_DOWN_BLUE
+  rotate: false
+  xy: 181, 51
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_DOWN_BROWN
+  rotate: false
+  xy: 223, 321
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_DOWN_BROWN
+  rotate: false
+  xy: 941, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_DOWN_CYAN
+  rotate: false
+  xy: 671, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_DOWN_CYAN
+  rotate: false
+  xy: 863, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_DOWN_ENEMY
+  rotate: false
+  xy: 223, 285
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_DOWN_ENEMY
+  rotate: false
+  xy: 925, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_DOWN_GREEN
+  rotate: false
+  xy: 765, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_DOWN_GREEN
+  rotate: false
+  xy: 521, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_DOWN_NEUTRAL
+  rotate: false
+  xy: 825, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_DOWN_NEUTRAL
+  rotate: false
+  xy: 943, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_DOWN_ORANGE
+  rotate: false
+  xy: 783, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_DOWN_ORANGE
+  rotate: false
+  xy: 623, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_DOWN_PINK
+  rotate: false
+  xy: 241, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_DOWN_PINK
+  rotate: false
+  xy: 899, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_DOWN_RED
+  rotate: false
+  xy: 385, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_DOWN_RED
+  rotate: false
+  xy: 325, 63
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_DOWN_YELLOW
+  rotate: false
+  xy: 403, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_DOWN_YELLOW
+  rotate: false
+  xy: 379, 99
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_LEFT
+  rotate: false
+  xy: 367, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_LEFT
+  rotate: false
+  xy: 253, 81
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_LEFT_BLUE
+  rotate: false
+  xy: 663, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_LEFT_BLUE
+  rotate: false
+  xy: 563, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_LEFT_BROWN
+  rotate: false
+  xy: 829, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_LEFT_BROWN
+  rotate: false
+  xy: 163, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_LEFT_CYAN
+  rotate: false
+  xy: 865, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_LEFT_CYAN
+  rotate: false
+  xy: 163, 15
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_LEFT_ENEMY
+  rotate: false
+  xy: 789, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_LEFT_ENEMY
+  rotate: false
+  xy: 493, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_LEFT_GREEN
+  rotate: false
+  xy: 951, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_LEFT_GREEN
+  rotate: false
+  xy: 461, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_LEFT_NEUTRAL
+  rotate: false
+  xy: 869, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_LEFT_NEUTRAL
+  rotate: false
+  xy: 253, 27
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_LEFT_ORANGE
+  rotate: false
+  xy: 387, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_LEFT_ORANGE
+  rotate: false
+  xy: 797, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_LEFT_PINK
+  rotate: false
+  xy: 353, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_LEFT_PINK
+  rotate: false
+  xy: 343, 81
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_LEFT_RED
+  rotate: false
+  xy: 765, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_LEFT_RED
+  rotate: false
+  xy: 919, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_LEFT_YELLOW
+  rotate: false
+  xy: 509, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_LEFT_YELLOW
+  rotate: false
+  xy: 379, 63
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_RIGHT
+  rotate: false
+  xy: 781, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_RIGHT
+  rotate: false
+  xy: 181, 15
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_RIGHT_BLUE
+  rotate: false
+  xy: 891, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_RIGHT_BLUE
+  rotate: false
+  xy: 593, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_RIGHT_BROWN
+  rotate: false
+  xy: 493, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_RIGHT_BROWN
+  rotate: false
+  xy: 379, 45
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_RIGHT_CYAN
+  rotate: false
+  xy: 421, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_RIGHT_CYAN
+  rotate: false
+  xy: 467, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_RIGHT_ENEMY
+  rotate: false
+  xy: 199, 375
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_RIGHT_ENEMY
+  rotate: false
+  xy: 389, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_RIGHT_GREEN
+  rotate: false
+  xy: 779, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_RIGHT_GREEN
+  rotate: false
+  xy: 109, 99
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_RIGHT_NEUTRAL
+  rotate: false
+  xy: 331, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_RIGHT_NEUTRAL
+  rotate: false
+  xy: 181, 69
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_RIGHT_ORANGE
+  rotate: false
+  xy: 529, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_RIGHT_ORANGE
+  rotate: false
+  xy: 719, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_RIGHT_PINK
+  rotate: false
+  xy: 675, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_RIGHT_PINK
+  rotate: false
+  xy: 485, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_RIGHT_RED
+  rotate: false
+  xy: 807, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_RIGHT_RED
+  rotate: false
+  xy: 925, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_RIGHT_YELLOW
+  rotate: false
+  xy: 801, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_RIGHT_YELLOW
+  rotate: false
+  xy: 845, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_UP
+  rotate: false
+  xy: 403, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_UP
+  rotate: false
+  xy: 217, 27
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_UP_BLUE
+  rotate: false
+  xy: 781, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_UP_BLUE
+  rotate: false
+  xy: 163, 33
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_UP_BROWN
+  rotate: false
+  xy: 137, 211
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_UP_BROWN
+  rotate: false
+  xy: 269, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_UP_CYAN
+  rotate: false
+  xy: 609, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_UP_CYAN
+  rotate: false
+  xy: 703, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_UP_ENEMY
+  rotate: false
+  xy: 531, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_UP_ENEMY
+  rotate: false
+  xy: 377, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_UP_GREEN
+  rotate: false
+  xy: 277, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_UP_GREEN
+  rotate: false
+  xy: 857, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_UP_NEUTRAL
+  rotate: false
+  xy: 277, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_UP_NEUTRAL
+  rotate: false
+  xy: 109, 81
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_UP_ORANGE
+  rotate: false
+  xy: 785, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_UP_ORANGE
+  rotate: false
+  xy: 361, 63
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_UP_PINK
+  rotate: false
+  xy: 775, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_UP_PINK
+  rotate: false
+  xy: 755, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_UP_RED
+  rotate: false
+  xy: 569, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_UP_RED
+  rotate: false
+  xy: 395, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_MEDIUM_UP_YELLOW
+  rotate: false
+  xy: 565, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_MEDIUM_UP_YELLOW
+  rotate: false
+  xy: 737, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_DOWN
+  rotate: false
+  xy: 257, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_DOWN
+  rotate: false
+  xy: 773, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_DOWN_BLUE
+  rotate: false
+  xy: 619, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_DOWN_BLUE
+  rotate: false
+  xy: 989, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_DOWN_BROWN
+  rotate: false
+  xy: 223, 267
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_DOWN_BROWN
+  rotate: false
+  xy: 907, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_DOWN_CYAN
+  rotate: false
+  xy: 371, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_DOWN_CYAN
+  rotate: false
+  xy: 415, 99
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_DOWN_ENEMY
+  rotate: false
+  xy: 819, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_DOWN_ENEMY
+  rotate: false
+  xy: 863, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_DOWN_GREEN
+  rotate: false
+  xy: 837, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_DOWN_GREEN
+  rotate: false
+  xy: 233, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_DOWN_NEUTRAL
+  rotate: false
+  xy: 495, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_DOWN_NEUTRAL
+  rotate: false
+  xy: 815, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_DOWN_ORANGE
+  rotate: false
+  xy: 693, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_DOWN_ORANGE
+  rotate: false
+  xy: 521, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_DOWN_PINK
+  rotate: false
+  xy: 565, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_DOWN_PINK
+  rotate: false
+  xy: 935, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_DOWN_RED
+  rotate: false
+  xy: 641, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_DOWN_RED
+  rotate: false
+  xy: 109, 63
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_DOWN_YELLOW
+  rotate: false
+  xy: 1, 67
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_DOWN_YELLOW
+  rotate: false
+  xy: 991, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_LEFT
+  rotate: false
+  xy: 497, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_LEFT
+  rotate: false
+  xy: 395, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_LEFT_BLUE
+  rotate: false
+  xy: 19, 13
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_LEFT_BLUE
+  rotate: false
+  xy: 479, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_LEFT_BROWN
+  rotate: false
+  xy: 753, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_LEFT_BROWN
+  rotate: false
+  xy: 425, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_LEFT_CYAN
+  rotate: false
+  xy: 749, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_LEFT_CYAN
+  rotate: false
+  xy: 289, 45
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_LEFT_ENEMY
+  rotate: false
+  xy: 297, 461
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_LEFT_ENEMY
+  rotate: false
+  xy: 529, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_LEFT_GREEN
+  rotate: false
+  xy: 695, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_LEFT_GREEN
+  rotate: false
+  xy: 145, 33
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_LEFT_NEUTRAL
+  rotate: false
+  xy: 713, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_LEFT_NEUTRAL
+  rotate: false
+  xy: 271, 45
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_LEFT_ORANGE
+  rotate: false
+  xy: 981, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_LEFT_ORANGE
+  rotate: false
+  xy: 881, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_LEFT_PINK
+  rotate: false
+  xy: 727, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_LEFT_PINK
+  rotate: false
+  xy: 953, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_LEFT_RED
+  rotate: false
+  xy: 981, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_LEFT_RED
+  rotate: false
+  xy: 377, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_LEFT_YELLOW
+  rotate: false
+  xy: 645, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_LEFT_YELLOW
+  rotate: false
+  xy: 889, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_RIGHT
+  rotate: false
+  xy: 909, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_RIGHT
+  rotate: false
+  xy: 899, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_RIGHT_BLUE
+  rotate: false
+  xy: 335, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_RIGHT_BLUE
+  rotate: false
+  xy: 125, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_RIGHT_BROWN
+  rotate: false
+  xy: 699, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_RIGHT_BROWN
+  rotate: false
+  xy: 875, 243
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_RIGHT_CYAN
+  rotate: false
+  xy: 187, 249
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_RIGHT_CYAN
+  rotate: false
+  xy: 467, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_RIGHT_ENEMY
+  rotate: false
+  xy: 933, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_RIGHT_ENEMY
+  rotate: false
+  xy: 875, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_RIGHT_GREEN
+  rotate: false
+  xy: 585, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_RIGHT_GREEN
+  rotate: false
+  xy: 677, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_RIGHT_NEUTRAL
+  rotate: false
+  xy: 709, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_RIGHT_NEUTRAL
+  rotate: false
+  xy: 917, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_RIGHT_ORANGE
+  rotate: false
+  xy: 293, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_RIGHT_ORANGE
+  rotate: false
+  xy: 127, 13
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_RIGHT_PINK
+  rotate: false
+  xy: 277, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_RIGHT_PINK
+  rotate: false
+  xy: 875, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_RIGHT_RED
+  rotate: false
+  xy: 137, 229
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_RIGHT_RED
+  rotate: false
+  xy: 961, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_RIGHT_YELLOW
+  rotate: false
+  xy: 909, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_RIGHT_YELLOW
+  rotate: false
+  xy: 251, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_UP
+  rotate: false
+  xy: 711, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_UP
+  rotate: false
+  xy: 215, 177
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_UP_BLUE
+  rotate: false
+  xy: 167, 353
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_UP_BLUE
+  rotate: false
+  xy: 439, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_UP_BROWN
+  rotate: false
+  xy: 313, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_UP_BROWN
+  rotate: false
+  xy: 893, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_UP_CYAN
+  rotate: false
+  xy: 763, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_UP_CYAN
+  rotate: false
+  xy: 145, 51
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_UP_ENEMY
+  rotate: false
+  xy: 361, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_UP_ENEMY
+  rotate: false
+  xy: 929, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_UP_GREEN
+  rotate: false
+  xy: 423, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_UP_GREEN
+  rotate: false
+  xy: 287, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_UP_NEUTRAL
+  rotate: false
+  xy: 277, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_UP_NEUTRAL
+  rotate: false
+  xy: 109, 45
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_UP_ORANGE
+  rotate: false
+  xy: 217, 393
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_UP_ORANGE
+  rotate: false
+  xy: 709, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_UP_PINK
+  rotate: false
+  xy: 367, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_UP_PINK
+  rotate: false
+  xy: 235, 99
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_UP_RED
+  rotate: false
+  xy: 837, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_UP_RED
+  rotate: false
+  xy: 815, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SMALL_UP_YELLOW
+  rotate: false
+  xy: 587, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SMALL_UP_YELLOW
+  rotate: false
+  xy: 575, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_DOWN
+  rotate: false
+  xy: 403, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_DOWN
+  rotate: false
+  xy: 403, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_DOWN_BLUE
+  rotate: false
+  xy: 501, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_DOWN_BLUE
+  rotate: false
+  xy: 501, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_DOWN_BROWN
+  rotate: false
+  xy: 407, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_DOWN_BROWN
+  rotate: false
+  xy: 407, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_DOWN_BROWN
+  rotate: false
+  xy: 413, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_DOWN_BROWN
+  rotate: false
+  xy: 413, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_DOWN_GREEN
+  rotate: false
+  xy: 295, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_DOWN_GREEN
+  rotate: false
+  xy: 295, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_DOWN_ORANGE
+  rotate: false
+  xy: 905, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_DOWN_ORANGE
+  rotate: false
+  xy: 905, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_DOWN_PINK
+  rotate: false
+  xy: 671, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_DOWN_PINK
+  rotate: false
+  xy: 671, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_DOWN_RED
+  rotate: false
+  xy: 807, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_DOWN_RED
+  rotate: false
+  xy: 807, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_DOWN_RED
+  rotate: false
+  xy: 689, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_DOWN_RED
+  rotate: false
+  xy: 689, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_LEFT
+  rotate: false
+  xy: 745, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_LEFT
+  rotate: false
+  xy: 745, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_LEFT_BLUE
+  rotate: false
+  xy: 747, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_LEFT_BLUE
+  rotate: false
+  xy: 747, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_LEFT_BROWN
+  rotate: false
+  xy: 411, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_LEFT_BROWN
+  rotate: false
+  xy: 411, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_LEFT_CYAN
+  rotate: false
+  xy: 519, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_LEFT_CYAN
+  rotate: false
+  xy: 519, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_LEFT_ENEMY
+  rotate: false
+  xy: 369, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_LEFT_ENEMY
+  rotate: false
+  xy: 369, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_LEFT_ENEMY
+  rotate: false
+  xy: 763, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_LEFT_ENEMY
+  rotate: false
+  xy: 763, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_LEFT_GREEN
+  rotate: false
+  xy: 477, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_LEFT_GREEN
+  rotate: false
+  xy: 477, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_LEFT_NEUTRAL
+  rotate: false
+  xy: 173, 213
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_LEFT_NEUTRAL
+  rotate: false
+  xy: 173, 213
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_LEFT_ORANGE
+  rotate: false
+  xy: 941, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_LEFT_ORANGE
+  rotate: false
+  xy: 941, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_LEFT_PINK
+  rotate: false
+  xy: 185, 353
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_LEFT_PINK
+  rotate: false
+  xy: 185, 353
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_LEFT_RED
+  rotate: false
+  xy: 349, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_LEFT_RED
+  rotate: false
+  xy: 349, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_LEFT_RED
+  rotate: false
+  xy: 965, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_LEFT_RED
+  rotate: false
+  xy: 965, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_RIGHT_ENEMY
+  rotate: false
+  xy: 421, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_RIGHT_ENEMY
+  rotate: false
+  xy: 421, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_RIGHT_ORANGE
+  rotate: false
+  xy: 999, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_RIGHT_ORANGE
+  rotate: false
+  xy: 999, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_RIGHT_ORANGE
+  rotate: false
+  xy: 799, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_RIGHT_ORANGE
+  rotate: false
+  xy: 799, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_RIGHT_RED
+  rotate: false
+  xy: 909, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_RIGHT_RED
+  rotate: false
+  xy: 909, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_RIGHT_YELLOW
+  rotate: false
+  xy: 771, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_RIGHT_YELLOW
+  rotate: false
+  xy: 771, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_RIGHT_YELLOW
+  rotate: false
+  xy: 581, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_RIGHT_YELLOW
+  rotate: false
+  xy: 581, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_UP
+  rotate: false
+  xy: 711, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_UP
+  rotate: false
+  xy: 711, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_UP
+  rotate: false
+  xy: 745, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_UP
+  rotate: false
+  xy: 745, 279
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_UP_BLUE
+  rotate: false
+  xy: 333, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_UP_BLUE
+  rotate: false
+  xy: 333, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_UP_BROWN
+  rotate: false
+  xy: 407, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_UP_BROWN
+  rotate: false
+  xy: 407, 225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_UP_CYAN
+  rotate: false
+  xy: 299, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_UP_CYAN
+  rotate: false
+  xy: 299, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_UP_ENEMY
+  rotate: false
+  xy: 935, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_UP_ENEMY
+  rotate: false
+  xy: 935, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_UP_GREEN
+  rotate: false
+  xy: 277, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_UP_GREEN
+  rotate: false
+  xy: 277, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_UP_NEUTRAL
+  rotate: false
+  xy: 19, 67
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_UP_NEUTRAL
+  rotate: false
+  xy: 19, 67
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_UP_NEUTRAL
+  rotate: false
+  xy: 565, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_UP_NEUTRAL
+  rotate: false
+  xy: 565, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_UP_ORANGE
+  rotate: false
+  xy: 549, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_HEAVY_UP_ORANGE
+  rotate: false
+  xy: 549, 405
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tank_SUPER_UP_ORANGE
+  rotate: false
+  xy: 731, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_UP_ORANGE
+  rotate: false
+  xy: 731, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_SUPER_UP_PINK
+  rotate: false
+  xy: 387, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_HEAVY_UP_PINK
+  rotate: false
+  xy: 387, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+tank_level_icon_1_
+  rotate: false
+  xy: 639, 423
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tank_level_icon_2_
+  rotate: false
+  xy: 433, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tank_level_icon_3_
+  rotate: false
+  xy: 673, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tank_level_icon_4_
+  rotate: false
+  xy: 959, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tank_level_icon_5_
+  rotate: false
+  xy: 917, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tank_level_icon_6_
+  rotate: false
+  xy: 271, 99
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tank_level_icon_other_
+  rotate: false
+  xy: 425, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tombstone
+  rotate: false
+  xy: 199, 411
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 233, 189
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+white_noise
+  rotate: false
+  xy: 1, 371
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+white_noise
+  rotate: false
+  xy: 1, 305
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+white_noise
+  rotate: false
+  xy: 67, 371
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+white_noise
+  rotate: false
+  xy: 1, 239
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+white_noise
+  rotate: false
+  xy: 67, 305
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+white_noise
+  rotate: false
+  xy: 133, 371
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 5
+white_noise
+  rotate: false
+  xy: 1, 173
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+white_noise
+  rotate: false
+  xy: 67, 239
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 7

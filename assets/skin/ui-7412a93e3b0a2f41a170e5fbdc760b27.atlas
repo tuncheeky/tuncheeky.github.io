@@ -1,0 +1,1023 @@
+
+ui.png
+size: 1024, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+arrow_down
+  rotate: false
+  xy: 959, 197
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+arrow_up
+  rotate: false
+  xy: 259, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+attention_marker
+  rotate: false
+  xy: 335, 143
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 807, 163
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+badge_ac
+  rotate: false
+  xy: 239, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+badge_flag
+  rotate: false
+  xy: 923, 197
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+badge_pencil
+  rotate: false
+  xy: 941, 197
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+badge_skull
+  rotate: false
+  xy: 977, 201
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+badge_star
+  rotate: false
+  xy: 303, 135
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+badge_tag
+  rotate: false
+  xy: 275, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+badge_tank
+  rotate: false
+  xy: 995, 183
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+badge_wrench
+  rotate: false
+  xy: 989, 219
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 733, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+cart
+  rotate: false
+  xy: 717, 149
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+chat
+  rotate: false
+  xy: 1005, 237
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+check_box_checked
+  rotate: false
+  xy: 295, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+clan
+  rotate: false
+  xy: 223, 15
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 321, 143
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+cross
+  rotate: false
+  xy: 303, 63
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+dead
+  rotate: false
+  xy: 1007, 219
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+dpad
+  rotate: false
+  xy: 307, 157
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+dpad_pressed_down
+  rotate: false
+  xy: 205, 55
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+dpad_pressed_left
+  rotate: false
+  xy: 503, 157
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+dpad_pressed_right
+  rotate: false
+  xy: 601, 157
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+dpad_pressed_up
+  rotate: false
+  xy: 405, 157
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+duplicate
+  rotate: false
+  xy: 205, 15
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+editor
+  rotate: false
+  xy: 941, 179
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+emotion_angry
+  rotate: false
+  xy: 399, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_angry_evil
+  rotate: false
+  xy: 469, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_ashamed
+  rotate: false
+  xy: 321, 93
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_awful
+  rotate: false
+  xy: 419, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_beaming
+  rotate: false
+  xy: 823, 189
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_boom
+  rotate: false
+  xy: 389, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_clown
+  rotate: false
+  xy: 509, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_confused
+  rotate: false
+  xy: 331, 73
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_cool
+  rotate: false
+  xy: 409, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_creep
+  rotate: false
+  xy: 321, 123
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_cry_laughing
+  rotate: false
+  xy: 529, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_cry_strong
+  rotate: false
+  xy: 331, 103
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_demon
+  rotate: false
+  xy: 331, 123
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_eh
+  rotate: false
+  xy: 449, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_excellent
+  rotate: false
+  xy: 499, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_grinning
+  rotate: false
+  xy: 321, 63
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_help
+  rotate: false
+  xy: 321, 73
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_hey
+  rotate: false
+  xy: 331, 63
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_impressive
+  rotate: false
+  xy: 369, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_meaningful
+  rotate: false
+  xy: 359, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_noob
+  rotate: false
+  xy: 439, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_noway
+  rotate: false
+  xy: 379, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_oh
+  rotate: false
+  xy: 331, 93
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_rambo
+  rotate: false
+  xy: 331, 83
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_rock
+  rotate: false
+  xy: 479, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_romic
+  rotate: false
+  xy: 331, 133
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_sad
+  rotate: false
+  xy: 331, 113
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_smiling
+  rotate: false
+  xy: 459, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_smiling_disabled
+  rotate: false
+  xy: 1013, 209
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_thumbs_down
+  rotate: false
+  xy: 321, 103
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_thumbs_up
+  rotate: false
+  xy: 321, 83
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_toxic
+  rotate: false
+  xy: 349, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_troll_a
+  rotate: false
+  xy: 321, 133
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_troll_b
+  rotate: false
+  xy: 429, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_warrior
+  rotate: false
+  xy: 519, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_what
+  rotate: false
+  xy: 489, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_wink
+  rotate: false
+  xy: 1013, 189
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+emotion_wonderful
+  rotate: false
+  xy: 321, 113
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+enter
+  rotate: false
+  xy: 241, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+envelope
+  rotate: false
+  xy: 751, 171
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 303, 99
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+export
+  rotate: false
+  xy: 969, 237
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+external_link_icon_discord
+  rotate: false
+  xy: 103, 153
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+external_link_icon_facebook
+  rotate: false
+  xy: 103, 51
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+external_link_icon_odnoklassniki
+  rotate: false
+  xy: 1, 153
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+external_link_icon_telegram
+  rotate: false
+  xy: 1, 51
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+external_link_icon_vk
+  rotate: false
+  xy: 205, 153
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fit
+  rotate: false
+  xy: 735, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+garbage_can
+  rotate: false
+  xy: 753, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+gear
+  rotate: false
+  xy: 789, 163
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+gray
+  rotate: false
+  xy: 277, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+grid_invisible
+  rotate: false
+  xy: 887, 193
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+grid_visible
+  rotate: false
+  xy: 241, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 851, 193
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+import
+  rotate: false
+  xy: 771, 145
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+lang_en
+  rotate: false
+  xy: 905, 185
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+lang_ru
+  rotate: false
+  xy: 995, 201
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+layer_invisible
+  rotate: false
+  xy: 293, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+layer_visible
+  rotate: false
+  xy: 295, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mail_message
+  rotate: false
+  xy: 277, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+pencil
+  rotate: false
+  xy: 257, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 303, 81
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+players
+  rotate: false
+  xy: 805, 181
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+plus
+  rotate: false
+  xy: 787, 181
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+properties
+  rotate: false
+  xy: 303, 117
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+rank_cadet
+  rotate: false
+  xy: 1, 29
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_captain
+  rotate: false
+  xy: 35, 29
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_chief_warrant_officer
+  rotate: false
+  xy: 69, 29
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_colonel
+  rotate: false
+  xy: 171, 29
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_colonel_general
+  rotate: false
+  xy: 171, 7
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_general_of_the_army
+  rotate: false
+  xy: 137, 7
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_junior_lieutenant
+  rotate: false
+  xy: 867, 233
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_junior_sergeant
+  rotate: false
+  xy: 1, 7
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_lieutenant
+  rotate: false
+  xy: 935, 233
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_lieutenant_colonel
+  rotate: false
+  xy: 699, 167
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_lieutenant_general
+  rotate: false
+  xy: 833, 211
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_major
+  rotate: false
+  xy: 103, 7
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_major_general
+  rotate: false
+  xy: 833, 233
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_marshal
+  rotate: false
+  xy: 137, 29
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_private
+  rotate: false
+  xy: 867, 211
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_private_first_class
+  rotate: false
+  xy: 765, 199
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_senior_lieutenant
+  rotate: false
+  xy: 799, 199
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_senior_sergeant
+  rotate: false
+  xy: 69, 7
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_sergeant
+  rotate: false
+  xy: 103, 29
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_sergeant_first_class
+  rotate: false
+  xy: 35, 7
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+rank_warrant_officer
+  rotate: false
+  xy: 205, 33
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+readiness_not_ready
+  rotate: false
+  xy: 789, 145
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+check_box_frame
+  rotate: false
+  xy: 789, 145
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+readiness_ready
+  rotate: false
+  xy: 833, 193
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+redo
+  rotate: false
+  xy: 771, 163
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+score_0_glyph
+  rotate: false
+  xy: 539, 148
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 923, 179
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ui_black_text_field
+  rotate: false
+  xy: 935, 215
+  size: 16, 16
+  split: 6, 6, 3, 9
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ui_cursor
+  rotate: false
+  xy: 341, 133
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+ui_frame_button_checked
+  rotate: false
+  xy: 987, 237
+  size: 16, 16
+  split: 5, 5, 5, 5
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ui_frame_button_down
+  rotate: false
+  xy: 971, 219
+  size: 16, 16
+  split: 5, 5, 5, 5
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ui_frame_button_up
+  rotate: false
+  xy: 699, 149
+  size: 16, 16
+  split: 5, 5, 5, 5
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+widget_frame
+  rotate: false
+  xy: 699, 149
+  size: 16, 16
+  split: 5, 5, 5, 5
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+window_frame
+  rotate: false
+  xy: 699, 149
+  size: 16, 16
+  split: 5, 5, 5, 5
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ui_image_button_down
+  rotate: false
+  xy: 977, 183
+  size: 16, 16
+  split: 4, 3, 3, 3
+  pad: 3, 3, 3, 3
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ui_button_pressed
+  rotate: false
+  xy: 977, 183
+  size: 16, 16
+  split: 6, 6, 5, 7
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ui_image_button_up
+  rotate: false
+  xy: 259, 19
+  size: 16, 16
+  split: 3, 3, 3, 3
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ui_button_normal
+  rotate: false
+  xy: 259, 19
+  size: 16, 16
+  split: 6, 6, 5, 7
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ui_joystick_base
+  rotate: false
+  xy: 699, 189
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ui_joystick_handle
+  rotate: false
+  xy: 807, 145
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ui_large_frame_button_checked
+  rotate: false
+  xy: 901, 221
+  size: 32, 32
+  split: 10, 10, 10, 10
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ui_large_frame_button_down
+  rotate: false
+  xy: 765, 221
+  size: 32, 32
+  split: 10, 10, 10, 10
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ui_large_frame_button_up
+  rotate: false
+  xy: 799, 221
+  size: 32, 32
+  split: 10, 10, 10, 10
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ui_selection
+  rotate: false
+  xy: 1013, 199
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ui_table
+  rotate: false
+  xy: 959, 179
+  size: 16, 16
+  split: 4, 4, 4, 4
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ui_text_field
+  rotate: false
+  xy: 769, 181
+  size: 16, 16
+  split: 6, 6, 3, 9
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+undo
+  rotate: false
+  xy: 905, 203
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+v-knob-dark-gray
+  rotate: false
+  xy: 923, 215
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 1, 1
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+world
+  rotate: false
+  xy: 869, 193
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+world_size
+  rotate: false
+  xy: 953, 215
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

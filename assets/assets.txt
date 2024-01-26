@@ -1,15 +1,12 @@
 d:assets:assets:0:application/unknown:1
 d:atlas:atlas:0:application/unknown:1
-t:atlas/project1990.atlas:atlas/project1990-4bf85c634e297e5311fb10aa9a671ceb.atlas:186523:application/unknown:1
+t:atlas/project1990.atlas:atlas/project1990-66a5343d587dbb175f29613fe316c335.atlas:187866:application/unknown:1
 t:atlas/project1990.json:atlas/project1990-4f27b94268d01b6f8244dc051df8e3d9.json:4140:application/json:1
-i:atlas/project1990.png:atlas/project1990-d8988b298c4f6f32057ae6caff354f21.png:430227:image/png:1
+i:atlas/project1990.png:atlas/project1990-84241c703bb7ef75d4b81d6dee79a29f.png:510101:image/png:1
 d:font:font:0:application/unknown:1
 t:font/FreePixel-16-bold.fnt:font/FreePixel-16-bold-cb1353763f17dc575effdfa1c17f71d5.fnt:70647:application/unknown:1
-i:font/FreePixel-16-bold.png:font/FreePixel-16-bold-f5d2d276f9e7ef4b879cb03a672d7862.png:12795:image/png:1
 t:font/FreePixel-16.fnt:font/FreePixel-16-b0128412923467f48f77839eacae73fd.fnt:70642:application/unknown:1
-i:font/FreePixel-16.png:font/FreePixel-16-94fdab69f7220fe5faf14b0194fd5470.png:12767:image/png:1
 t:font/PressStart2P.fnt:font/PressStart2P-1007f756c2dee5ad9ecf872d5867b230.fnt:57498:application/unknown:1
-i:font/PressStart2P.png:font/PressStart2P-3c360bd7d42525dbea3b193bc5d57f43.png:4919:image/png:1
 d:i18n:i18n:0:application/unknown:1
 b:i18n/strings.properties:i18n/strings-65508ef980c02c16c0f325ab56b7af3b.properties:22174:application/unknown:1
 b:i18n/strings_ru.properties:i18n/strings_ru-a58ae699fc049c9bd0745894a2ab33e1.properties:25862:application/unknown:1

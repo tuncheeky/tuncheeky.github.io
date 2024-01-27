@@ -10,8 +10,8 @@ t:font/FreePixel-16-bold.fnt:font/FreePixel-16-bold-cb1353763f17dc575effdfa1c17f
 t:font/FreePixel-16.fnt:font/FreePixel-16-b0128412923467f48f77839eacae73fd.fnt:70642:application/unknown:1
 t:font/PressStart2P.fnt:font/PressStart2P-1007f756c2dee5ad9ecf872d5867b230.fnt:57498:application/unknown:1
 d:i18n:i18n:0:application/unknown:1
-b:i18n/strings.properties:i18n/strings-65508ef980c02c16c0f325ab56b7af3b.properties:22174:application/unknown:1
-b:i18n/strings_ru.properties:i18n/strings_ru-a58ae699fc049c9bd0745894a2ab33e1.properties:25862:application/unknown:1
+b:i18n/strings.properties:i18n/strings-b41f4acc3cc1c0721e21184f58a1930c.properties:22543:application/unknown:1
+b:i18n/strings_ru.properties:i18n/strings_ru-b02edcab6f8ca970d7360e008258f3e7.properties:26302:application/unknown:1
 b:i18n/usernames.properties:i18n/usernames-328e2e3a74436840596885a36ebf6446.properties:527:application/unknown:1
 b:i18n/usernames_ru.properties:i18n/usernames_ru-c7250f31c969f3bc55ae4c7c5c86686c.properties:655:application/unknown:1
 d:sound:sound:0:application/unknown:1

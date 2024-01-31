@@ -1,7 +1,13 @@
 var tuncheeky = {};
 
 tuncheeky.config = {
-    hideDonateButton: false
+    useExtendedTitle: false,
+    showDonateButton: true,
+    showWebsiteButton: true,
+    showTelegramButton: true,
+    showDiscordButton: true,
+    showVkButton: true,
+    unsupportedClipboard: false
 };
 
 tuncheeky.api = {

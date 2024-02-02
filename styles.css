@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "FreePixel";
+  src: url("fonts/FreePixel.ttf");
+}
+
 canvas {
     cursor: default;
     outline: none;
@@ -40,4 +45,55 @@ body {
 
 .superdev:hover {
     background-color: rgb(100,100,100);
+}
+
+#text-input-window-overlay {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+#text-input-window {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+    background-color: #000000;
+    padding: 8px;
+    width: 30%;
+    border-color: #404040;
+    border-style: solid;
+    border-width: 2px;
+}
+
+#text-input-window-text-field {
+    flex: 1;
+    background-color: #808080;
+    border-color: #404040;
+    border-style: solid;
+    border-width: 2px;
+    font-family: "FreePixel";
+    color: #ffffff;
+}
+
+.text-input-window-button {
+    background-color: #606060;
+    border-color: #404040;
+    border-style: solid;
+    border-width: 2px;
+    width: 24px;
+    height: 24px;
+    color: #ffffff;
+}
+
+.text-input-window-button:active {
+    background-color: #808080;
+    border-color: #303030;
 }

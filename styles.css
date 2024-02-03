@@ -81,6 +81,7 @@ body {
     border-width: 2px;
     font-family: "FreePixel";
     color: #ffffff;
+    min-width: 0px;
 }
 
 .text-input-window-button {

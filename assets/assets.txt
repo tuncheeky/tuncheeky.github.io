@@ -1,8 +1,8 @@
 d:assets:assets:0:application/unknown:1
 d:atlas:atlas:0:application/unknown:1
-t:atlas/project1990.atlas:atlas/project1990-33ffd1dce570b052baef3bd6bd12735e.atlas:187972:application/unknown:1
+t:atlas/project1990.atlas:atlas/project1990-7c53b701b514b771fc80749de554841b.atlas:188067:application/unknown:1
 t:atlas/project1990.json:atlas/project1990-979dc3f29d968917301394c285ea00e0.json:4232:application/json:1
-i:atlas/project1990.png:atlas/project1990-43a8b10390be891d155f57d42fbba96f.png:520246:image/png:1
+i:atlas/project1990.png:atlas/project1990-957012de269f2a5fb237d7fb3ab84380.png:520011:image/png:1
 t:atlas/service.atlas:atlas/service-282c58d55903d4b2c62eb9f1028dcc04.atlas:167:application/unknown:1
 i:atlas/service.png:atlas/service-cdaee54535e55985c99844c7d6519937.png:98:image/png:1
 d:font:font:0:application/unknown:1
@@ -10,8 +10,8 @@ t:font/FreePixel-16-bold.fnt:font/FreePixel-16-bold-cb1353763f17dc575effdfa1c17f
 t:font/FreePixel-16.fnt:font/FreePixel-16-b0128412923467f48f77839eacae73fd.fnt:70642:application/unknown:1
 t:font/PressStart2P.fnt:font/PressStart2P-1007f756c2dee5ad9ecf872d5867b230.fnt:57498:application/unknown:1
 d:i18n:i18n:0:application/unknown:1
-b:i18n/strings.properties:i18n/strings-9841eab8dca412a48b020a50a193ac96.properties:22606:application/unknown:1
-b:i18n/strings_ru.properties:i18n/strings_ru-7b20f2d143caf99692ac4a33ce456e61.properties:26385:application/unknown:1
+b:i18n/strings.properties:i18n/strings-07d4a93a87522ab77c8c1870e56c40d7.properties:22657:application/unknown:1
+b:i18n/strings_ru.properties:i18n/strings_ru-61a252f9be253405d4af2d112fc6f67a.properties:26445:application/unknown:1
 b:i18n/usernames.properties:i18n/usernames-328e2e3a74436840596885a36ebf6446.properties:527:application/unknown:1
 b:i18n/usernames_ru.properties:i18n/usernames_ru-c7250f31c969f3bc55ae4c7c5c86686c.properties:655:application/unknown:1
 d:sound:sound:0:application/unknown:1

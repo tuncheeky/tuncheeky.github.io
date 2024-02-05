@@ -159,6 +159,10 @@ tuncheeky.api = {
         return this.throwUnsupportedOperation("isUseNativeTextInputMethod");
     },
 
+    isUseOnScreenControls() {
+        return this.throwUnsupportedOperation("isUseOnScreenControls");
+    },
+
     getLanguage() {
         return this.throwUnsupportedOperation("getLanguage");
     },

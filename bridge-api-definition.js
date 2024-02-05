@@ -152,19 +152,23 @@ tuncheeky.api = {
     },
 
     getDeviceCategory() {
-        return throwUnsupportedOperation("getDeviceCategory");
+        return this.throwUnsupportedOperation("getDeviceCategory");
     },
 
     isUseNativeTextInputMethod() {
-        return throwUnsupportedOperation("isUseNativeTextInputMethod");
+        return this.throwUnsupportedOperation("isUseNativeTextInputMethod");
+    },
+
+    getLanguage() {
+        return this.throwUnsupportedOperation("getLanguage");
     },
 
     notifyGameLoaded() {
-        throwUnsupportedOperation("notifyGameLoaded");
+        this.throwUnsupportedOperation("notifyGameLoaded");
     },
 
     showFullScreenAd() {
-        throwUnsupportedOperation("showFullScreenAd");
+        this.throwUnsupportedOperation("showFullScreenAd");
     },
 
     throwUnsupportedOperation(operation) {

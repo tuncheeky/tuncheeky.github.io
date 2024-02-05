@@ -13,6 +13,9 @@ tuncheeky.DC_API_FAILED = "FAILED";
 tuncheeky.DC_DESKTOP = "DESKTOP";
 tuncheeky.DC_MOBILE = "MOBILE";
 
+tuncheeky.TIW_ENTER = "ENTER";
+tuncheeky.TIW_CANCEL = "CANCEL";
+
 //
 // Config
 //
@@ -31,9 +34,22 @@ tuncheeky.config = {
 // Bridge API
 //
 
+class TextInputWindowContext {
+    constructor(initialValue, maxLength, multiline, callback) {
+        this.initialValue = initialValue;
+        this.maxLength = maxLength;
+        this.multiline = multiline;
+        this.callback = callback;
+        this.updated = false;
+    }
+
+    static createDefault() {
+        return new TextInputWindowContext("", 256, false, null);
+    }
+}
+
 tuncheeky.api = {
-    textInputCallback: null,
-    textInputUpdated: false,
+    tiwc: TextInputWindowContext.createDefault(),
 
     // Common API
 
@@ -43,56 +59,90 @@ tuncheeky.api = {
         document.addEventListener("DOMContentLoaded", () => {
             document.getElementById("text-input-window-overlay").addEventListener("click", (event) => {
                 if (event.target.id == "text-input-window-overlay") {
-                    if (!tapi.textInputUpdated) {
-                        tapi.callTextInputCallback("cancel", null);
+                    if (!tapi.tiwc.updated) {
+                        tapi.callTextInputCallback(tuncheeky.TIW_CANCEL, null);
                     }
                 }
             });
             document.getElementById("text-input-window-text-field").addEventListener("input", (event) => {
-                tapi.textInputUpdated = true;
+                tapi.tiwc.updated = true;
+            });
+            document.getElementById("text-input-window-text-field").addEventListener("keydown", (event) => {
+                if (event.key === "Enter") {
+                    const value = tapi.getTextInputValue();
+                    tapi.callTextInputCallback(tuncheeky.TIW_ENTER, value);
+                }
+            });
+            document.getElementById("text-input-window-text-area").addEventListener("input", (event) => {
+                tapi.tiwc.updated = true;
             });
             document.getElementById("text-input-window-button-enter").addEventListener("click", (event) => {
-                const textField = document.getElementById("text-input-window-text-field");
-                const value = textField.value;
-                tapi.callTextInputCallback("enter", value);
+                const value = tapi.getTextInputValue();
+                tapi.callTextInputCallback(tuncheeky.TIW_ENTER, value);
             });
             document.getElementById("text-input-window-button-cancel").addEventListener("click", (event) => {
-                tapi.callTextInputCallback("cancel", null);
+                tapi.callTextInputCallback(tuncheeky.TIW_CANCEL, null);
             });
-            // tapi.showTextInputWindow("Initial text", (a, v) => alert(`${a}, ${v}`));
+            // tapi.showTextInputWindow("Initial text", 12, false, (a, v) => alert(`${a}, ${v}`));
         });
+    },
+
+    getTextInputValue() {
+        if (this.tiwc.multiline) {
+            const textArea = document.getElementById("text-input-window-text-area");
+            return textArea.value;
+        } else {
+            const textField = document.getElementById("text-input-window-text-field");
+            return textField.value;
+        }
     },
 
     callTextInputCallback(action, data) {
         const overlay = document.getElementById("text-input-window-overlay");
         overlay.style.display = "none";
 
-        this.textInputUpdated = false;
+        const callback = this.tiwc.callback;
+        this.tiwc = TextInputWindowContext.createDefault();
 
-        const callback = this.textInputCallback;
-        this.textInputCallback = null;
         if (callback != null) {
             callback(action, data);
         }
     },
 
-    showTextInputWindow(initialValue, callback) {
+    setUpTextInput(element, initialValue, maxLength, visible) {
+        const actualMaxLength = maxLength <= 0 ? 256 : maxLength;
+
+        element.value = initialValue;
+        element.maxLength = actualMaxLength;
+        if (visible) {
+            element.style.display = "block";
+            element.focus();
+            // Re-focus, the animation has to be finished in 250ms
+            setTimeout(function () {
+                  element.focus();
+            }, 275);
+        } else {
+            element.style.display = "none";
+        }
+    },
+
+    showTextInputWindow(initialValue, maxLength, multiline, callback) {
+        this.tiwc = new TextInputWindowContext(initialValue, maxLength, multiline, callback);
+
         const overlay = document.getElementById("text-input-window-overlay");
         const tiWindow = document.getElementById("text-input-window");
         const textField = document.getElementById("text-input-window-text-field");
+        const textArea = document.getElementById("text-input-window-text-area");
+
+        this.setUpTextInput(textField, initialValue, maxLength, !multiline);
+        this.setUpTextInput(textArea, initialValue, maxLength, multiline);
 
         overlay.style.display = "block";
         overlay.classList.remove("show-text-input-window-overlay-animation");
         overlay.classList.add("show-text-input-window-overlay-animation");
 
-        textField.value = initialValue;
-        textField.focus();
-
         tiWindow.classList.remove("show-text-input-window-animation");
         tiWindow.classList.add("show-text-input-window-animation");
-
-        this.textInputUpdated = false;
-        this.textInputCallback = callback;
     },
 
     // Actual API

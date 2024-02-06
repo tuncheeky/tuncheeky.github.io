@@ -148,3 +148,19 @@ body {
     background-color: #808080;
     border-color: #303030;
 }
+
+.image-button-enter {
+    background-image: url('images/icons/enter.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 16px 16px;
+    image-rendering: pixelated;
+}
+
+.image-button-cross {
+    background-image: url('images/icons/cross.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 16px 16px;
+    image-rendering: pixelated;
+}

@@ -1,4 +1,4 @@
-// Reference implementation
+// https://dev.vk.com/ru/bridge/overview
 
 tuncheeky.api.mobile = false;
 
@@ -32,7 +32,7 @@ tuncheeky.api.notifyGameLoaded = function() {
     vkBridge.send('VKWebAppInit')
         .then((data) => {
             if (data.result) {
-                // Приложение инициализировано
+                // Do nothing
             } else {
                 // TODO Show an error
                 console.log("Unable to initialize VK Bridge");
@@ -45,5 +45,19 @@ tuncheeky.api.notifyGameLoaded = function() {
 };
 
 tuncheeky.api.showFullScreenAd = function() {
+    vkBridge.send('VKWebAppShowNativeAds', {
+            ad_format: 'interstitial'
+        })
+        .then((data) => {
+            if (data.result) {
+                // Do nothing
+            } else {
+                console.log(data)
+            }
+        })
+        .catch((error) => { console.log(error); });
+};
+
+tuncheeky.api.showBannerAd = function() {
     // Do nothing
 };

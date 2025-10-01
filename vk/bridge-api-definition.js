@@ -175,6 +175,10 @@ tuncheeky.api = {
         this.throwUnsupportedOperation("showFullScreenAd");
     },
 
+    showBannerAd() {
+        this.throwUnsupportedOperation("showBannerAd")
+    },
+
     throwUnsupportedOperation(operation) {
         throw new Error(`Unsupported operation: ${operation}`);
     }

@@ -49,7 +49,7 @@ tuncheeky.api.showFullScreenAd = function(callback) {
             ad_format: 'interstitial'
         })
         .then((data) => {
-            callback(data.result);
+            callback(data.result, null);
         })
         .catch((error) => {
             callback(null, new tuncheeky.HtmlBridgeError(error))

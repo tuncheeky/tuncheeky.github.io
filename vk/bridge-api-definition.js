@@ -171,7 +171,7 @@ tuncheeky.api = {
         this.throwUnsupportedOperation("notifyGameLoaded");
     },
 
-    showFullScreenAd() {
+    showFullScreenAd(callback) {
         this.throwUnsupportedOperation("showFullScreenAd");
     },
 

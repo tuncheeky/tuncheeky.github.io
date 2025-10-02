@@ -44,18 +44,16 @@ tuncheeky.api.notifyGameLoaded = function() {
         });
 };
 
-tuncheeky.api.showFullScreenAd = function() {
+tuncheeky.api.showFullScreenAd = function(callback) {
     vkBridge.send('VKWebAppShowNativeAds', {
             ad_format: 'interstitial'
         })
         .then((data) => {
-            if (data.result) {
-                // Do nothing
-            } else {
-                console.log(data)
-            }
+            callback(data.result);
         })
-        .catch((error) => { console.log(error); });
+        .catch((error) => {
+            callback(null, new tuncheeky.HtmlBridgeError(error))
+        });
 };
 
 tuncheeky.api.showBannerAd = function() {

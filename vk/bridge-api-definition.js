@@ -49,6 +49,7 @@ class TextInputWindowContext {
 }
 
 tuncheeky.api = {
+    mobileUserAgent: /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent),
     tiwc: TextInputWindowContext.createDefault(),
 
     // Common API
@@ -148,39 +149,40 @@ tuncheeky.api = {
     // Actual API
 
     initialize(callback) {
-        callback(tuncheeky.DC_API_UNSUPPORTED);
+        callback(tuncheeky.DC_API_READY, null);
     },
 
     getDeviceCategory() {
-        return this.throwUnsupportedOperation("getDeviceCategory");
+        if (this.mobileUserAgent) {
+            return tuncheeky.DC_MOBILE;
+        } else {
+            return tuncheeky.DC_DESKTOP;
+        }
     },
 
     isUseNativeTextInputMethod() {
-        return this.throwUnsupportedOperation("isUseNativeTextInputMethod");
+        return this.mobileUserAgent;
     },
 
     isUseOnScreenControls() {
-        return this.throwUnsupportedOperation("isUseOnScreenControls");
+        return this.mobileUserAgent;
     },
 
     getLanguage() {
-        return this.throwUnsupportedOperation("getLanguage");
+        // Use the default language
+        return null;
     },
 
     notifyGameLoaded() {
-        this.throwUnsupportedOperation("notifyGameLoaded");
+        // Do nothing
     },
 
     showFullScreenAd(callback) {
-        this.throwUnsupportedOperation("showFullScreenAd");
+        callback?.(false, null);
     },
 
-    showBannerAd() {
-        this.throwUnsupportedOperation("showBannerAd")
-    },
-
-    throwUnsupportedOperation(operation) {
-        throw new Error(`Unsupported operation: ${operation}`);
+    showBannerAd(callback) {
+        callback?.(false, null);
     }
 
 }

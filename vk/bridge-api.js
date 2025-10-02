@@ -1,46 +1,23 @@
 // https://dev.vk.com/ru/bridge/overview
-
-tuncheeky.api.mobile = false;
+tuncheeky.config.useExtendedTitle = true;
+tuncheeky.config.showDonateButton = false;
+tuncheeky.config.showWebsiteButton = false;
+tuncheeky.config.showTelegramButton = false;
+tuncheeky.config.showDiscordButton = false;
+tuncheeky.config.showVkButton = true;
+tuncheeky.config.unsupportedClipboard = true;
 
 tuncheeky.api.initialize = function(callback) {
-    this.mobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-    callback(tuncheeky.DC_API_READY, null);
-};
-
-tuncheeky.api.getDeviceCategory = function() {
-    if (this.mobile) {
-        return tuncheeky.DC_MOBILE;
-    } else {
-        return tuncheeky.DC_DESKTOP;
-    }
-};
-
-tuncheeky.api.isUseNativeTextInputMethod = function() {
-    return this.mobile;
-};
-
-tuncheeky.api.getLanguage = function() {
-    // Use the default language
-    return null;
-};
-
-tuncheeky.api.isUseOnScreenControls = function() {
-    return this.mobile;
-}
-
-tuncheeky.api.notifyGameLoaded = function() {
     vkBridge.send('VKWebAppInit')
         .then((data) => {
             if (data.result) {
-                // Do nothing
+                callback(tuncheeky.DC_API_READY, null);
             } else {
-                // TODO Show an error
-                console.log("Unable to initialize VK Bridge");
+                callback(tuncheeky.DC_API_FAILED, "Unknown failure during initialization of the VK bridge");
             }
         })
         .catch((error) => {
-            // TODO Show an error
-            console.log(error);
+            callback(tuncheeky.DC_API_FAILED, error.toString());
         });
 };
 
@@ -49,13 +26,35 @@ tuncheeky.api.showFullScreenAd = function(callback) {
             ad_format: 'interstitial'
         })
         .then((data) => {
-            callback(data.result, null);
+            callback?.(data.result, null);
         })
         .catch((error) => {
-            callback(null, new tuncheeky.HtmlBridgeError(error))
+            callback?.(null, tuncheeky.api.toHtmlBridgeError(error))
         });
 };
 
-tuncheeky.api.showBannerAd = function() {
-    // Do nothing
+tuncheeky.api.showBannerAd = function(callback) {
+    vkBridge.send('VKWebAppShowBannerAd', {
+            banner_location: 'bottom'
+        })
+        .then((data) => {
+            callback?.(data.result, null);
+        })
+        .catch((error) => {
+            callback?.(null, tuncheeky.api.toHtmlBridgeError(error))
+        });
 };
+
+/*
+Example:
+{
+   "error_type": "client_error",
+   "error_data": {
+       "error_code": 20,
+       "error_reason": "No ads"
+   }
+}
+*/
+tuncheeky.api.toHtmlBridgeError = function(error) {
+    return new tuncheeky.HtmlBridgeError(`${error.error_type}/${error.error_data.error_code}/${error.error_data.error_reason}`)
+}

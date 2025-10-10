@@ -160,6 +160,10 @@ tuncheeky.api = {
         }
     },
 
+    isAllowExplicitAuthentication() {
+        return true;
+    },
+
     isUseNativeTextInputMethod() {
         return this.mobileUserAgent;
     },
@@ -183,8 +187,19 @@ tuncheeky.api = {
 
     showBannerAd(callback) {
         callback?.(false, null);
-    }
+    },
 
+    isStorageSupported() {
+        return false;
+    },
+
+    storeValue(key, value, callback) {
+        callback?.(null, new tuncheeky.HtmlBridgeError("Unsupported operation: storeValue"));
+    },
+
+    loadValue(key, callback) {
+        callback?.(null, new tuncheeky.HtmlBridgeError("Unsupported operation: loadValue"));
+    }
 }
 
 //

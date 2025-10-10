@@ -21,6 +21,10 @@ tuncheeky.api.initialize = function(callback) {
         });
 };
 
+tuncheeky.api.isAllowExplicitAuthentication = function() {
+    return false;
+};
+
 tuncheeky.api.showFullScreenAd = function(callback) {
     vkBridge.send('VKWebAppShowNativeAds', {
             ad_format: 'interstitial'
@@ -39,6 +43,42 @@ tuncheeky.api.showBannerAd = function(callback) {
         })
         .then((data) => {
             callback?.(data.result, null);
+        })
+        .catch((error) => {
+            callback?.(null, tuncheeky.api.toHtmlBridgeError(error))
+        });
+};
+
+tuncheeky.api.isStorageSupported = function() {
+    return true;
+};
+
+tuncheeky.api.storeValue = function(key, value, callback) {
+    vkBridge.send('VKWebAppStorageSet', {
+            key: key,
+            value: value
+        })
+        .then((data) => {
+            callback?.(data.result, null);
+        })
+        .catch((error) => {
+            callback?.(null, tuncheeky.api.toHtmlBridgeError(error))
+        });
+};
+
+tuncheeky.api.loadValue = function(key, callback) {
+    vkBridge.send('VKWebAppStorageGet', {
+            keys: [key]
+        })
+        .then((data) => {
+            if (data.keys.length === 1 && data.keys[0].value != null && data.keys[0].value !== "") {
+                callback?.(new tuncheeky.HtmlBridgePair(
+                    data.keys[0].key,
+                    data.keys[0].value
+                ), null)
+            } else {
+                callback?.(null, null);
+            }
         })
         .catch((error) => {
             callback?.(null, tuncheeky.api.toHtmlBridgeError(error))

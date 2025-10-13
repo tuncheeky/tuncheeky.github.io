@@ -21,6 +21,10 @@ tuncheeky.api.initialize = function(callback) {
         });
 };
 
+tuncheeky.api.getDistributionChannelName = function() {
+    return "VK";
+};
+
 tuncheeky.api.isAllowExplicitAuthentication = function() {
     return false;
 };

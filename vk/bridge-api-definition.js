@@ -160,6 +160,10 @@ tuncheeky.api = {
         }
     },
 
+    getDistributionChannelName() {
+        return "WEB";
+    },
+
     isAllowExplicitAuthentication() {
         return true;
     },

@@ -162,6 +162,15 @@
 			"imageUp": "check_box_frame",
 			"imageChecked": "check_box_checked"
 		},
+		"frame-checkbox": {
+			"font": "default-font",
+			"up": "ui_frame_button_up",
+			"down": "ui_frame_button_down",
+			"fontColor": "white",
+			"disabledFontColor": "gray",
+			"imageUp": "check_box_frame",
+			"imageChecked": "check_box_checked"
+		},
 		"frame-widget": {
 			"up": "ui_frame_button_up",
 			"down": "ui_frame_button_down",

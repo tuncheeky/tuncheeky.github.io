@@ -189,7 +189,7 @@ tuncheeky.api = {
         callback?.(false, null);
     },
 
-    showBannerAd(callback) {
+    showBannerAd(location, callback) {
         callback?.(false, null);
     },
 

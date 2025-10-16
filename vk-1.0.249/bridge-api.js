@@ -41,9 +41,13 @@ tuncheeky.api.showFullScreenAd = function(callback) {
         });
 };
 
-tuncheeky.api.showBannerAd = function(callback) {
+tuncheeky.api.showBannerAd = function(location, callback) {
+    let bl = "bottom";
+    if (location === "TOP") {
+        bl = "top";
+    }
     vkBridge.send('VKWebAppShowBannerAd', {
-            banner_location: 'bottom'
+            banner_location: bl
         })
         .then((data) => {
             callback?.(data.result, null);

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dendy Tanks Online — Support</title>
+    <link rel="icon" type="image/png" href="static/images/favicon.png">
+    <link rel="stylesheet" href="static/css/tuncheeky.css?did=1762285914219" type="text/css">
+</head>
+<body>
+<header>
+    <div class="navigation_bar">
+        <div class="left_navigation_bar">
+        </div>
+        <div class="right_navigation_bar">
+            <a id="toggleLanguage" class="navigation_button" href="#">🇷🇺 Русский</a>
+        </div>
+    </div>
+    <hr>
+</header>
+
+<main>
+    <section id="en">
+        <h1>Support</h1>
+        <h2>Contact Support</h2>
+        <p>Email: <a href="mailto:irdakk@yandex.ru">irdakk@yandex.ru</a></p>
+        <p>Please include the following information in your message:</p>
+        <ul>
+            <li>Device model</li>
+            <li>iOS version</li>
+            <li>Game version</li>
+            <li>Short description of the issue and screenshots</li>
+        </ul>
+        <h2>Community Support</h2>
+        <p>Join our community to chat, share ideas, and get help from other players:</p>
+        <ul>
+            <li><a href="https://t.me/tuncheeky2020" target="_blank">📢 Telegram Channel</a></li>
+            <li><a href="https://t.me/tuncheeky2020_chat" target="_blank">💬 Telegram Chat</a><br></li>
+            <li><a href="https://vk.com/tuncheeky" target="_blank">🌐 VK Community</a></li>
+        </ul>
+    </section>
+
+    <section id="ru" style="display:none;">
+        <h1>Поддержка</h1>
+        <h2>Связаться с поддержкой</h2>
+        <p>Эл. почта: <a href="mailto:irdakk@yandex.ru">irdakk@yandex.ru</a></p>
+        <p>Пожалуйста добавьте следующую информацию в ваше сообщение</p>
+        <ul>
+            <li>Модель устройства</li>
+            <li>Версию iOS</li>
+            <li>Версию игры</li>
+            <li>Краткое описание проблемы и скриншоты</li>
+        </ul>
+        <h2>Поддержка сообщества</h2>
+        <p>Присоединяйтесь к нашему сообществу, чтобы общаться, делиться идеями и получать помощь от других игроков:</p>
+        <ul>
+            <li><a href="https://t.me/tuncheeky2020" target="_blank">📢 Telegram Канал</a></li>
+            <li><a href="https://t.me/tuncheeky2020_chat" target="_blank">💬 Telegram Чат</a><br></li>
+            <li><a href="https://vk.com/tuncheeky" target="_blank">🌐 ВК Сообщество</a></li>
+        </ul>
+    </section>
+</main>
+
+<script>
+    const toggleLanguageButton = document.getElementById('toggleLanguage');
+    const en = document.getElementById('en');
+    const ru = document.getElementById('ru');
+
+    function toggleLanguage(russian) {
+        en.style.display = russian ? 'none' : 'block';
+        ru.style.display = russian ? 'block' : 'none';
+        toggleLanguageButton.textContent = russian ? '🇬🇧 English' : '🇷🇺 Русский';
+        document.title = russian ? 'Поддержка' : 'Support';
+    }
+
+    toggleLanguageButton.addEventListener('click', () => {
+        toggleLanguage(en.style.display !== 'none');
+    });
+
+    (function() {
+        const lang = navigator.language || navigator.userLanguage;
+        const russian = lang && lang.toLowerCase().startsWith('ru');
+        toggleLanguage(russian);
+    })();
+</script>
+</body>
+</html>

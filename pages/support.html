@@ -1,16 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<html
+        lang="en"
+>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dendy Tanks Online — Support</title>
+    <title>Tuncheeky</title>
     <link rel="icon" type="image/png" href="/static/images/favicon.png">
-    <link rel="stylesheet" href="/static/css/tuncheeky.css?did=1762286943148" type="text/css">
+    <link rel="stylesheet" href="/static/css/tuncheeky.css?did=1762374587565" type="text/css">
 </head>
 <body>
 <header>
     <div class="navigation_bar">
         <div class="left_navigation_bar">
+        </div>
+        <div style="position:absolute; left:50%; transform:translateX(-50%); text-align:center;">
+            <h1 id="enTitle" style="margin-top: 0px; margin-bottom: 0px;">Dendy Tanks Online</h1>
+            <h1 id="ruTitle" style="margin-top: 0px; margin-bottom: 0px; display:none;">Денди Танчики Онлайн</h1>
         </div>
         <div class="right_navigation_bar">
             <a id="toggleLanguage" class="navigation_button" href="#">🇷🇺 Русский</a>
@@ -20,6 +26,7 @@
 </header>
 
 <main>
+    <div class="content">
     <section id="en">
         <h1>Support</h1>
         <h2>Contact Support</h2>
@@ -38,6 +45,8 @@
             <li><a href="https://t.me/tuncheeky2020_chat" target="_blank">💬 Telegram Chat</a><br></li>
             <li><a href="https://vk.com/tuncheeky" target="_blank">🌐 VK Community</a></li>
         </ul>
+        <h2>Privacy</h2>
+        <p>We do not collect personal data beyond what’s necessary for gameplay and analytics. Read our <a href="privacy.html">Privacy Policy</a>.</p>
     </section>
 
     <section id="ru" style="display:none;">
@@ -58,19 +67,26 @@
             <li><a href="https://t.me/tuncheeky2020_chat" target="_blank">💬 Telegram Чат</a><br></li>
             <li><a href="https://vk.com/tuncheeky" target="_blank">🌐 ВК Сообщество</a></li>
         </ul>
+        <h2>Конфиденциальность</h2>
+        <p>Мы не собираем личные данные, кроме необходимых для работы игры и аналитики. Подробнее читайте в <a href="privacy.html">Политике конфиденциальности</a>.</p>
     </section>
+</div>
 </main>
 
 <script>
     const toggleLanguageButton = document.getElementById('toggleLanguage');
     const en = document.getElementById('en');
     const ru = document.getElementById('ru');
+    const enTitle = document.getElementById('enTitle');
+    const ruTitle = document.getElementById('ruTitle');
 
     function toggleLanguage(russian) {
         en.style.display = russian ? 'none' : 'block';
         ru.style.display = russian ? 'block' : 'none';
+        enTitle.style.display = russian ? 'none' : 'block';
+        ruTitle.style.display = russian ? 'block' : 'none';
         toggleLanguageButton.textContent = russian ? '🇬🇧 English' : '🇷🇺 Русский';
-        document.title = russian ? 'Поддержка' : 'Support';
+        document.title = russian ? 'Танчики' : 'Tuncheeky';
     }
 
     toggleLanguageButton.addEventListener('click', () => {

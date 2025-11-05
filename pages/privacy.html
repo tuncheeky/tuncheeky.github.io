@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html
+        lang="en"
+>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tuncheeky</title>
+    <link rel="icon" type="image/png" href="/static/images/favicon.png">
+    <link rel="stylesheet" href="/static/css/tuncheeky.css?did=1762374587598" type="text/css">
+</head>
+<body>
+<header>
+    <div class="navigation_bar">
+        <div class="left_navigation_bar">
+        </div>
+        <div style="position:absolute; left:50%; transform:translateX(-50%); text-align:center;">
+            <h1 id="enTitle" style="margin-top: 0px; margin-bottom: 0px;">Dendy Tanks Online</h1>
+            <h1 id="ruTitle" style="margin-top: 0px; margin-bottom: 0px; display:none;">Денди Танчики Онлайн</h1>
+        </div>
+        <div class="right_navigation_bar">
+            <a id="toggleLanguage" class="navigation_button" href="#">🇷🇺 Русский</a>
+        </div>
+    </div>
+    <hr>
+</header>
+
+<main>
+    <div class="content">
+    <section id="en">
+        <h1>Privacy Policy</h1>
+
+        Contact: <a href="mailto:irdakk@yandex.ru">irdakk@yandex.ru</a></p>
+
+        <h2>Data Collection</h2>
+        We collect and store the following user data on our server:
+        <ul>
+            <li>Nickname and game profile data</li>
+            <li>Game statistics</li>
+            <li>Messages in the in-game chat</li>
+            <li>Clan information</li>
+        </ul>
+
+        <h2>Data Usage</h2>
+        These data are used only to:
+        <ul>
+            <li>Support online gameplay</li>
+            <li>Sync progress and statistics</li>
+            <li>Enable chat and clan features</li>
+            <li>Manage in-game purchases</li>
+        </ul>
+
+        <h2>Third-Party Services</h2>
+        We do not use any third-party analytics or other services.
+
+        <h2>User Interaction</h2>
+        Players can interact through chat and clans. We recommend following proper conduct rules.
+
+        <h2>Children</h2>
+        The app is suitable for all ages. Parents should monitor children’s use of in-game purchases.
+
+        <h2>Advertising and Purchases</h2>
+        The game may include advertising and in-game purchases.
+    </section>
+
+    <section id="ru" style="display:none;">
+        <h1>Политика конфиденциальности</h1>
+
+        Контакт: <a href="mailto:irdakk@yandex.ru">irdakk@yandex.ru</a></p>
+
+        <h2>Сбор данных</h2>
+        Мы собираем и храним следующие данные пользователей на нашем сервере для работы игры:
+        <ul>
+            <li>Никнейм и данные игрового профиля</li>
+            <li>Игровую статистику</li>
+            <li>Сообщения в игровом чате</li>
+            <li>Информацию о кланах</li>
+        </ul>
+
+        <h2>Использование данных</h2>
+        Эти данные используются исключительно для:
+        <ul>
+            <li>Поддержки онлайн-игры</li>
+            <li>Синхронизации прогресса и статистики</li>
+            <li>Обеспечения работы чата и кланов</li>
+            <li>Управления внутри-игровыми покупками</li>
+        </ul>
+
+        <h2>Сторонние сервисы</h2>
+        Мы не используем сторонние аналитические или другие сервисы.
+
+        <h2>Взаимодействие между пользователями</h2>
+        Игроки могут взаимодействовать через чат и кланы. Мы рекомендуем соблюдать правила общения.
+
+        <h2>Дети</h2>
+        Приложение предназначено для всех возрастов. Родители должны контролировать использование детьми внутриигровых покупок.
+
+        <h2>Рекламa и покупки</h2>
+        Игра может содержать рекламу и внутриигровые покупки.
+    </section>
+</div>
+</main>
+
+<script>
+    const toggleLanguageButton = document.getElementById('toggleLanguage');
+    const en = document.getElementById('en');
+    const ru = document.getElementById('ru');
+    const enTitle = document.getElementById('enTitle');
+    const ruTitle = document.getElementById('ruTitle');
+
+    function toggleLanguage(russian) {
+        en.style.display = russian ? 'none' : 'block';
+        ru.style.display = russian ? 'block' : 'none';
+        enTitle.style.display = russian ? 'none' : 'block';
+        ruTitle.style.display = russian ? 'block' : 'none';
+        toggleLanguageButton.textContent = russian ? '🇬🇧 English' : '🇷🇺 Русский';
+        document.title = russian ? 'Танчики' : 'Tuncheeky';
+    }
+
+    toggleLanguageButton.addEventListener('click', () => {
+        toggleLanguage(en.style.display !== 'none');
+    });
+
+    (function() {
+        const lang = navigator.language || navigator.userLanguage;
+        const russian = lang && lang.toLowerCase().startsWith('ru');
+        toggleLanguage(russian);
+    })();
+</script>
+</body>
+</html>

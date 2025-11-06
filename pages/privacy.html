@@ -7,19 +7,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tuncheeky</title>
     <link rel="icon" type="image/png" href="/static/images/favicon.png">
-    <link rel="stylesheet" href="/static/css/tuncheeky.css?did=1762374587598" type="text/css">
+    <link rel="stylesheet" href="/static/css/tuncheeky.css?did=1762404533765" type="text/css">
 </head>
 <body>
 <header>
     <div class="navigation_bar">
         <div class="left_navigation_bar">
-        </div>
-        <div style="position:absolute; left:50%; transform:translateX(-50%); text-align:center;">
-            <h1 id="enTitle" style="margin-top: 0px; margin-bottom: 0px;">Dendy Tanks Online</h1>
-            <h1 id="ruTitle" style="margin-top: 0px; margin-bottom: 0px; display:none;">Денди Танчики Онлайн</h1>
+            <div class="left_navigation_bar">
+                <div id="enNavigationLinks">
+                    <a class="navigation_button" href="support.html">Support</a>
+                    <a class="navigation_button" href="privacy.html">Privacy</a>
+                </div>
+                <div id="ruNavigationLinks" style="display: none;">
+                    <a class="navigation_button" href="support.html">Поддержка</a>
+                    <a class="navigation_button" href="privacy.html">Конфиденциальность</a>
+                </div>
+            </div>
         </div>
         <div class="right_navigation_bar">
-            <a id="toggleLanguage" class="navigation_button" href="#">🇷🇺 Русский</a>
+            <a id="toggleLanguage" class="navigation_button" onclick="(function(){})();">(@) Русский</a>
         </div>
     </div>
     <hr>
@@ -105,15 +111,15 @@
     const toggleLanguageButton = document.getElementById('toggleLanguage');
     const en = document.getElementById('en');
     const ru = document.getElementById('ru');
-    const enTitle = document.getElementById('enTitle');
-    const ruTitle = document.getElementById('ruTitle');
+    const enNavigationLinks = document.getElementById('enNavigationLinks');
+    const ruNavigationLinks = document.getElementById('ruNavigationLinks');
 
     function toggleLanguage(russian) {
         en.style.display = russian ? 'none' : 'block';
         ru.style.display = russian ? 'block' : 'none';
-        enTitle.style.display = russian ? 'none' : 'block';
-        ruTitle.style.display = russian ? 'block' : 'none';
-        toggleLanguageButton.textContent = russian ? '🇬🇧 English' : '🇷🇺 Русский';
+        enNavigationLinks.style.display = russian ? 'none' : 'block';
+        ruNavigationLinks.style.display = russian ? 'block' : 'none';
+        toggleLanguageButton.textContent = russian ? '(@) English' : '(@) Русский';
         document.title = russian ? 'Танчики' : 'Tuncheeky';
     }
 

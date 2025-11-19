@@ -1,0 +1,237 @@
+{
+	"BitmapFont": {
+		"default-font": {
+			"file": "font/FreePixel-16.fnt"
+		},
+		"default-font-bold": {
+			"file": "font/FreePixel-16-bold.fnt"
+		},
+		"nes-font": {
+			"file": "font/PressStart2P.fnt"
+		}
+	},
+	"Color": {
+		"white": {
+			"a": 1,
+			"b": 1,
+			"g": 1,
+			"r": 1
+		},
+		"gray": {
+			"a": 1,
+			"b": 0.5,
+			"g": 0.5,
+			"r": 0.5
+		},
+		"dark-gray": {
+			"a": 1,
+			"b": 0.25,
+			"g": 0.25,
+			"r": 0.25
+		},
+		"soft-red": {
+			"r": 0.8,
+			"g": 0.2,
+			"b": 0.2,
+			"a": 1.0
+		},
+		"soft-green": {
+			"r": 0.2,
+			"g": 0.8,
+			"b": 0.2,
+			"a": 1.0
+		},
+		"soft-blue": {
+			"r": 0.2,
+			"g": 0.2,
+			"b": 0.8,
+			"a": 1.0
+		},
+		"soft-yellow": {
+			"r": 0.8,
+			"g": 0.8,
+			"b": 0.0,
+			"a": 1.0
+		},
+		"light-red": {
+			"r": 1.0,
+			"g": 0.5,
+			"b": 0.5,
+			"a": 1.0
+		},
+		"light-green": {
+			"r": 0.5,
+			"g": 1.0,
+			"b": 0.5,
+			"a": 1.0
+		},
+		"light-blue": {
+			"r": 0.5,
+			"g": 0.5,
+			"b": 1.0,
+			"a": 1.0
+		}
+	},
+	"TextButtonStyle": {
+		"default": {
+			"font": "default-font",
+			"up": "ui_button_normal",
+			"down": "ui_button_pressed",
+			"disabled": "ui_button_normal",
+			"fontColor": "white",
+			"disabledFontColor": "gray"
+		},
+		"default-font-bold": {
+			"font": "default-font-bold",
+			"up": "ui_button_normal",
+			"down": "ui_button_pressed",
+			"disabled": "ui_button_normal",
+			"fontColor": "white",
+			"disabledFontColor": "gray"
+		},
+		"frame-widget": {
+			"font": "default-font",
+			"up": "ui_frame_button_up",
+			"down": "ui_frame_button_down",
+			"checked": "ui_frame_button_checked"
+		},
+		"big-button": {
+			"font": "nes-font",
+			"up": "ui_big_button_up",
+			"down": "ui_big_button_down"
+		},
+		"small-button": {
+			"font": "nes-font",
+			"up": "ui_small_button_up",
+			"down": "ui_small_button_down"
+		}
+	},
+	"TextFieldStyle": {
+		"default": {
+			"font": "default-font",
+			"fontColor": "white",
+			"background": "ui_text_field",
+			"cursor": "ui_cursor",
+			"selection": "ui_selection"
+		},
+		"black-text-field": {
+			"font": "default-font",
+			"fontColor": "white",
+			"background": "ui_black_text_field",
+			"cursor": "ui_cursor",
+			"selection": "ui_selection"
+		}
+	},
+	"LabelStyle": {
+		"default": {
+			"font": "default-font",
+			"fontColor": "white"
+		},
+		"default-bold": {
+			"font": "default-font-bold",
+			"fontColor": "white"
+		},
+		"nes": {
+			"font": "nes-font",
+			"fontColor": "white"
+		}
+	},
+	"ImageButtonStyle": {
+		"default": {
+			"up": "ui_image_button_up",
+			"down": "ui_image_button_down"
+		},
+		"frame-widget": {
+			"up": "ui_frame_button_up",
+			"down": "ui_frame_button_down",
+			"checked": "ui_frame_button_checked"
+		},
+		"arrow-up-down-widget": {
+			"up": "ui_image_button_up",
+			"down": "ui_image_button_down",
+			"imageUp": "arrow_up",
+			"imageChecked": "arrow_down"
+		}
+	},
+	"ImageTextButtonStyle": {
+		"default": {
+			"font": "default-font",
+			"up": "ui_button_normal",
+			"down": "ui_button_pressed",
+			"disabled": "ui_button_normal",
+			"fontColor": "white",
+			"disabledFontColor": "gray"
+		},
+		"default-checkbox": {
+			"font": "default-font",
+			"up": "ui_button_normal",
+			"down": "ui_button_pressed",
+			"disabled": "ui_button_normal",
+			"fontColor": "white",
+			"disabledFontColor": "gray",
+			"imageUp": "check_box_frame",
+			"imageChecked": "check_box_checked"
+		},
+		"frame-checkbox": {
+			"font": "default-font",
+			"up": "ui_frame_button_up",
+			"down": "ui_frame_button_down",
+			"fontColor": "white",
+			"disabledFontColor": "gray",
+			"imageUp": "check_box_frame",
+			"imageChecked": "check_box_checked"
+		},
+		"frame-widget": {
+			"up": "ui_frame_button_up",
+			"down": "ui_frame_button_down",
+			"checked": "ui_frame_button_checked",
+			"font": "default-font",
+			"fontColor": "white"
+		},
+		"small-button": {
+			"font": "nes-font",
+			"up": "ui_small_button_up",
+			"down": "ui_small_button_down"
+		},
+		"big-button": {
+			"font": "nes-font",
+			"up": "ui_big_button_up",
+			"down": "ui_big_button_down"
+		}
+	},
+	"ButtonStyle": {
+		"default": {
+			"up": "ui_button_normal",
+			"down": "ui_button_pressed",
+			"disabled": "ui_button_normal"
+		},
+		"frame-widget": {
+			"up": "ui_frame_button_up",
+			"down": "ui_frame_button_down",
+			"checked": "ui_frame_button_checked"
+		},
+		"large-frame-widget": {
+			"up": "ui_large_frame_button_up",
+			"down": "ui_large_frame_button_down",
+			"checked": "ui_large_frame_button_checked"
+		}
+	},
+	"ScrollPaneStyle": {
+		"dark-v-knob-scroll-pane": {
+			"vScrollKnob": "v-knob-dark-gray"
+		},
+		"dark-v-knob-scroll-pane-pr-2-v2": {
+			"vScrollKnob": "v-knob-dark-gray-pr-2-v2"
+		}
+	},
+	"com.a2.prj1990.client.widget.SeparatorWidgetStyle": {
+		"default": {
+			"image": "white",
+			"color": "gray"
+		},
+		"dark-gray": {
+			"image": "white",
+			"color": "dark-gray"
+		}
+	}
+}

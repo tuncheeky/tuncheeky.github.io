@@ -8,12 +8,12 @@ t:font/PressStart2P.fnt:font/PressStart2P-1af1f3d41876de37a9b6b32a433bd7dd.fnt:5
 t:font/FreePixel-16.fnt:font/FreePixel-16-dbca050f7ead4abe2527ce6732d78386.fnt:70021:application/unknown:1
 d:atlas:atlas:0:application/unknown:1
 t:atlas/project1990.json:atlas/project1990-cffb1847310ef5a4a715a44f3ec6401b.json:4713:application/json:1
-i:atlas/project1990.png:atlas/project1990-9c35877db4d166c9535ffe75238c32e0.png:222962:image/png:1
-t:atlas/project1990.atlas:atlas/project1990-c22b362c1ed73b270cee8f491bd796af.atlas:27690:application/unknown:1
+i:atlas/project1990.png:atlas/project1990-f2ae3408dc39f46faae4bc72e9a8eda8.png:223181:image/png:1
+t:atlas/project1990.atlas:atlas/project1990-e7cb9100e611e760f7951ab1f17401aa.atlas:27796:application/unknown:1
 d:i18n:i18n:0:application/unknown:1
-b:i18n/spaceships_ru.properties:i18n/spaceships_ru-565f7e3e46e06abbe7763aca8f51bb7d.properties:1122:application/unknown:1
+b:i18n/spaceships_ru.properties:i18n/spaceships_ru-f797c8008a6e4797013fbeb768360eac.properties:1185:application/unknown:1
 b:i18n/strings_ru.properties:i18n/strings_ru-aa968fbcaae61ef4b0081e8cd7392512.properties:27940:application/unknown:1
-b:i18n/spaceships.properties:i18n/spaceships-14f8df5e21edce2f5427ab42e82e357a.properties:820:application/unknown:1
+b:i18n/spaceships.properties:i18n/spaceships-e667993979d02c0d42ddefe45e283b3c.properties:853:application/unknown:1
 b:i18n/strings.properties:i18n/strings-7f4443996af5d82aefc78dcf180e0125.properties:23787:application/unknown:1
 d:sound:sound:0:application/unknown:1
 a:sound/SmallExplosion8-Bit.ogg:sound/SmallExplosion8-Bit-703f6c00169b0d752122c53a8c9ebc0d.ogg:8519:audio/ogg:1

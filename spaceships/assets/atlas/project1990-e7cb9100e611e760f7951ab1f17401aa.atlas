@@ -1823,6 +1823,14 @@ black
 bounds:1029,1245,16,16
 bug
 bounds:1131,1301,16,16
+bullet0
+bounds:19,248,3,3
+bullet1
+bounds:53,282,3,3
+bullet2
+bounds:35,264,3,3
+bullet3
+bounds:1007,996,3,3
 button_fire_down
 bounds:773,785,32,32
 button_fire_up

@@ -11,9 +11,9 @@ t:atlas/project1990.json:atlas/project1990-cffb1847310ef5a4a715a44f3ec6401b.json
 i:atlas/project1990.png:atlas/project1990-9c35877db4d166c9535ffe75238c32e0.png:222962:image/png:1
 t:atlas/project1990.atlas:atlas/project1990-c22b362c1ed73b270cee8f491bd796af.atlas:27690:application/unknown:1
 d:i18n:i18n:0:application/unknown:1
-b:i18n/spaceships_ru.properties:i18n/spaceships_ru-f2116721878fcab4f40c4b0ecddaa4cf.properties:690:application/unknown:1
+b:i18n/spaceships_ru.properties:i18n/spaceships_ru-565f7e3e46e06abbe7763aca8f51bb7d.properties:1122:application/unknown:1
 b:i18n/strings_ru.properties:i18n/strings_ru-aa968fbcaae61ef4b0081e8cd7392512.properties:27940:application/unknown:1
-b:i18n/spaceships.properties:i18n/spaceships-34e824afb9a34a70524d269ddb0a0e75.properties:484:application/unknown:1
+b:i18n/spaceships.properties:i18n/spaceships-14f8df5e21edce2f5427ab42e82e357a.properties:820:application/unknown:1
 b:i18n/strings.properties:i18n/strings-7f4443996af5d82aefc78dcf180e0125.properties:23787:application/unknown:1
 d:sound:sound:0:application/unknown:1
 a:sound/SmallExplosion8-Bit.ogg:sound/SmallExplosion8-Bit-703f6c00169b0d752122c53a8c9ebc0d.ogg:8519:audio/ogg:1
